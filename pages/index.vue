@@ -2,7 +2,7 @@
 	<div class="flex flex-col pt-16">
 		<div class="bg-white h-16 fixed pin border-b border-police-blue shadow-md z-50">
 			<div class="container h-full flex">
-				<div class="my-auto mr-2 sm:mr-4"><img class="h-8 sm:h-12 min-w-8" src="/icon.png" alt="vue"></div>
+				<div class="my-auto mr-2 sm:mr-4"><img class="h-8 sm:h-12 min-w-8" :src="`${staticPath}icon.png`" alt="vue"></div>
 				<h1 v-show="!showMobileSearch" class="mt-5 sm:mt-3 text-xl sm:text-3xl whitespace-no-wrap">Why Vue</h1>
 				<div class="ml-auto my-auto hidden sm:block">
 					<input v-model="searchWord" class="form-control border-police-blue w-48" placeholder="Search">
@@ -56,6 +56,7 @@ import BackToTop from 'vue-backtotop'
 export default {
 	components: {LinkPrevue, BackToTop},
 	computed: {
+		staticPath () { return process.env.static },
 		computedResources () {
 			return this.resources.slice(0).map(r => {
 				r.show = this.searchWord ? r.title.toLowerCase().includes(this.searchWord.toLowerCase()) || r.tags.includes(this.searchWord.toLowerCase()) : true
