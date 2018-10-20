@@ -20,6 +20,10 @@ html {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 	box-sizing: border-box;
+	color: config('colors.police-blue')
+}
+body {
+	@apply bg-mint
 }
 *, *:before, *:after {
 	box-sizing: border-box;
@@ -27,8 +31,33 @@ html {
 	-webkit-tap-highlight-color: transparent;
 }
 a {
-	@apply no-underline outline-none
+	@apply no-underline outline-none text-police-blue
 }
 img {
 	@apply block
+}
+.transition {
+	transition: all 0.15s;
+}
+.deep-h-full, .deep-h-full > div {
+	@apply h-full
+}
+.deep-h-full > div {
+	@apply pb-4
+}
+.btn {
+	transition: all 0.15s;
+	@apply bg-mint border border-police-blue text-white
+}
+.btn:hover {
+	@apply bg-mint-dark
+}
+.btn:focus {
+	@apply outline-none
+}
+.form-control {
+	@apply border pl-2 py-2 pr-6 rounded outline-none leading-normal
+}
+.form-control:disabled {
+	@apply bg-white
 }
