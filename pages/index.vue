@@ -25,15 +25,15 @@
 						<template slot-scope="props">
 							<div class="shadow-md bg-white w-full h-full rounded border border-police-blue flex flex-col grad">
 								<div class="h-48 bg-contain bg-center bg-no-repeat" :style="`background-image: url(${props.img})`"></div>
-								<div class="p-4 flex flex-col flex-1 bg-white">
+								<div class="p-4 flex flex-col flex-1 bg-white rounded-b">
 									<p class="text-sm mb-2">{{r.date}}</p>
-									<a :href="r.link" target="_blank" class="font-bold text-xl mb-3">{{r.title}}</a>
+									<a :href="r.link" target="_blank" class="font-bold text-xl mb-2">{{r.title}}</a>
 									<div class="flex flex-wrap -mx-1">
-										<div v-for="t in r.tags" :key="r.title+t" class="px-1 mb-2">
+										<div v-for="t in r.tags" :key="r.title+t" class="px-1 mb-4">
 											<button type="button" class="btn rounded p-1 capitalize" @click="searchWord=t">{{t}}</button>
 										</div>
 									</div>
-									<p v-line-clamp="2" class="leading-tight mb-4">{{props.description}}</p>
+									<p v-line-clamp="2" class="leading-tight mb-6">{{props.description}}</p>
 									<a :href="r.link" target="_blank" class="btn rounded-xl py-2 px-4 text-center w-32 mx-auto mt-auto">Vue More</a>
 								</div>
 							</div>
