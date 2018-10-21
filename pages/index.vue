@@ -1,5 +1,5 @@
 <template>
-	<div class="flex flex-col pt-16">
+	<div class="flex flex-col pt-16 overflow-x-hidden">
 		<div class="bg-white h-16 fixed pin border-b border-police-blue shadow-md z-50">
 			<div class="container h-full flex">
 				<div class="my-auto mr-2 sm:mr-4"><img class="h-8 sm:h-12 min-w-8" :src="`${staticPath}icon.png`" alt="vue"></div>
@@ -21,7 +21,7 @@
 		<div class="container pt-8">
 			<div class="flex flex-wrap -mx-2">
 				<div v-show="r.show" v-for="r in computedResources" :key="r.title" class="w-full sm:w-1/2 lg:w-1/3 xl:w-1/4 px-2">
-					<link-prevue class="deep-h-full" :url="r.link">
+					<link-prevue class="deep-h-full overflow-hidden" :url="r.link">
 						<template slot-scope="props">
 							<div class="shadow-md bg-white w-full h-full rounded border border-police-blue flex flex-col">
 								<img class="rounded-t w-full" :src="props.img" :alt="r.title">
@@ -33,7 +33,9 @@
 											<button type="button" class="btn rounded p-1 capitalize" @click="searchWord=t">{{t}}</button>
 										</div>
 									</div>
-									<p class="mb-4">{{props.description}}</p>
+									<div class="overflow-hidden mb-4 flex-1">
+										<p class="leading-tight">{{props.description}}</p>
+									</div>
 									<a :href="r.link" target="_blank" class="btn rounded-xl py-2 px-4 text-center w-32 mx-auto mt-auto">Vue More</a>
 								</div>
 							</div>
@@ -78,6 +80,15 @@ export default {
 				]
 			},
 			{
+				"title": "Why Companies Should Choose Vue.js For Application Development",
+				"link": "https://www.rishabhsoft.com/blog/vuejs-development",
+				"date": "17 Oct 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue's Ecosystem Growth is Taking Off... Just Like React's Did",
 				"link": "https://zendev.com/2018/10/16/vue-growth-taking-off-like-react.html",
 				"date": "16 Oct 2018",
@@ -85,6 +96,15 @@ export default {
 					"text",
 					"vue",
 					"react"
+				]
+			},
+			{
+				"title": "The Cynical Developer Episode 99 - VueJs",
+				"link": "https://player.fm/series/series-1580340/episode-99-vuejs",
+				"date": "15 Oct 2018",
+				"tags": [
+					"audio",
+					"vue"
 				]
 			},
 			{
@@ -146,6 +166,15 @@ export default {
 				"title": "What is the easiest JavaScript framework to learn in 2018?",
 				"link": "https://www.linkedin.com/feed/update/activity:6446251519095369728/",
 				"date": "14 Sep 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Why Do Developers Prefer Vue.Js Over Other Frameworks?",
+				"link": "https://medium.com/@rachaelray018/why-do-developers-prefer-vue-js-over-other-frameworks-e1b7144323fe",
+				"date": "4 Sep 2018",
 				"tags": [
 					"text",
 					"vue"
@@ -416,8 +445,25 @@ export default {
 				]
 			},
 			{
+				"title": "What is Vue.js and What are its Advantages",
+				"link": "https://hackernoon.com/what-is-vue-js-and-what-are-its-advantages-4071b7c7993d",
+				"date": "25 Oct 2017",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Adding Vue.js to Your Technology Stack",
 				"link": "https://www.monterail.com/vuejs-development-guide",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Comparison with Other Frameworks",
+				"link": "https://vuejs.org/v2/guide/comparison.html",
 				"tags": [
 					"text",
 					"vue"

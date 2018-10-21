@@ -43,7 +43,7 @@ img {
 	@apply h-full
 }
 .deep-h-full > div {
-	@apply pb-4
+	@apply pb-4 max-h-180
 }
 .btn {
 	transition: all 0.15s;
