@@ -229,6 +229,17 @@ export default {
 				]
 			},
 			{
+				"title": "Angular, React, or Vue? What Javascript Framework Should You Learn in 2018 and Beyond?",
+				"link": "https://www.youtube.com/watch?v=r_ECtCgo4Q0",
+				"date": "19 Jul 2018",
+				"tags": [
+					"video",
+					"vue",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Easyship case study: How They Switched From AngularJS to Vue and Increased Website Performance by 37%",
 				"link": "https://www.monterail.com/blog/from-angularjs-to-vuejs",
 				"date": "19 Jul 2018",
@@ -308,6 +319,25 @@ export default {
 				]
 			},
 			{
+				"title": 'My point of "vue" in React vs. Vue',
+				"link": "https://dev.to/ycmjason/my-point-of-vue-in-react-vs-vue-2c6b",
+				"date": "14 May 2018",
+				"tags": [
+					"text",
+					"vue",
+					"react"
+				]
+			},
+			{
+				"title": "Vue on 2018 — Interview with Evan You, author of the Vue.js framework",
+				"link": "https://blog.reactiveconf.com/vue-on-2018-interview-with-evan-you-author-of-the-vue-js-framework-26bba150a184",
+				"date": "10 May 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "A React Point of Vue - Divya Sasidharan at VueConf.US",
 				"link": "https://www.youtube.com/watch?v=5TgvhATYm3Q",
 				"date": "3 May 2018",
@@ -361,6 +391,15 @@ export default {
 				"title": "13 Top Companies That Have Trusted Vue.js – Examples of Applications",
 				"link": "https://www.netguru.co/blog/13-top-companies-that-have-trusted-vue.js-examples-of-applications",
 				"date": "21 Mar 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "What's All The Fuss About Vue.JS?",
+				"link": "https://blog.northcoders.com/whats-all-the-fuss-vuejs",
+				"date": "18 Mar 2018",
 				"tags": [
 					"text",
 					"vue"
