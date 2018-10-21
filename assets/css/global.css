@@ -61,3 +61,6 @@ img {
 .form-control:disabled {
 	@apply bg-white
 }
+.grad {
+	background-image: linear-gradient(config('colors.police-blue'), config('colors.mint'));
+}

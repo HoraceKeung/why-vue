@@ -2,7 +2,7 @@
 	<div class="flex flex-col pt-16 overflow-x-hidden">
 		<div class="bg-white h-16 fixed pin border-b border-police-blue shadow-md z-50">
 			<div class="container h-full flex">
-				<div class="my-auto mr-2 sm:mr-4"><img class="h-8 sm:h-12 min-w-8" :src="`${staticPath}icon.png`" alt="vue"></div>
+				<div class="my-auto mr-2 sm:mr-4"><img class="h-8 sm:h-12 min-w-8 cursor-pointer" :src="`${staticPath}icon.png`" alt="vue" @click="searchWord=null"></div>
 				<h1 v-show="!showMobileSearch" class="mt-5 sm:mt-3 text-xl sm:text-3xl whitespace-no-wrap">Why Vue</h1>
 				<div class="ml-auto my-auto hidden sm:block">
 					<input v-model="searchWord" class="form-control border-police-blue w-48" placeholder="Search">
@@ -23,9 +23,9 @@
 				<div v-show="r.show" v-for="r in computedResources" :key="r.title" class="w-full sm:w-1/2 lg:w-1/3 xl:w-1/4 px-2">
 					<link-prevue class="deep-h-full overflow-hidden" :url="r.link">
 						<template slot-scope="props">
-							<div class="shadow-md bg-white w-full h-full rounded border border-police-blue flex flex-col">
-								<img class="rounded-t w-full" :src="props.img" :alt="r.title">
-								<div class="p-4 flex flex-col flex-1">
+							<div class="shadow-md bg-white w-full h-full rounded border border-police-blue flex flex-col grad">
+								<div class="h-48 bg-contain bg-center bg-no-repeat" :style="`background-image: url(${props.img})`"></div>
+								<div class="p-4 flex flex-col flex-1 bg-white">
 									<p class="text-sm mb-2">{{r.date}}</p>
 									<a :href="r.link" target="_blank" class="font-bold text-xl mb-3">{{r.title}}</a>
 									<div class="flex flex-wrap -mx-1">
@@ -33,9 +33,7 @@
 											<button type="button" class="btn rounded p-1 capitalize" @click="searchWord=t">{{t}}</button>
 										</div>
 									</div>
-									<div class="overflow-hidden mb-4 flex-1">
-										<p class="leading-tight">{{props.description}}</p>
-									</div>
+									<p v-line-clamp="2" class="leading-tight mb-4">{{props.description}}</p>
 									<a :href="r.link" target="_blank" class="btn rounded-xl py-2 px-4 text-center w-32 mx-auto mt-auto">Vue More</a>
 								</div>
 							</div>

@@ -13,7 +13,8 @@
     "link-prevue": "^1.1.3",
     "nuxt": "^2.2.0",
     "tailwindcss": "^0.6.6",
-    "vue-backtotop": "^1.4.12"
+    "vue-backtotop": "^1.4.12",
+    "vue-line-clamp": "^1.2.3"
   },
   "devDependencies": {
     "autoprefixer": "^9.2.1",
