@@ -28,7 +28,7 @@ module.exports = {
 		theme_color: '#41B883'
 	},
 	workbox: {
-		runtimeCaching: [{urlPattern: '/_nuxt/.*'}]
+		runtimeCaching: [{urlPattern: '/why-vue/_nuxt/.*'}]
 	},
 	modules: ['@nuxtjs/pwa'],
 	build: {
