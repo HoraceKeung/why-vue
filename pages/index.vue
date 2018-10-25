@@ -69,6 +69,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js: Power and Flexiblity",
+				"link": "https://www.youtube.com/watch?v=3aEm4Id5mTo",
+				"date": "25 Oct 2018",
+				"tags": [
+					"video",
+					"vue"
+				]
+			},
+			{
 				"title": "Nuxt is the 4th fastest growing project on GitHub",
 				"link": "https://blog.tidelift.com/nuxt-is-the-4th-fastest-growing-project-on-github",
 				"date": "25 Oct 2018",
