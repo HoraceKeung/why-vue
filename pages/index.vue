@@ -69,6 +69,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Nuxt is the 4th fastest growing project on GitHub",
+				"link": "https://blog.tidelift.com/nuxt-is-the-4th-fastest-growing-project-on-github",
+				"date": "25 Oct 2018",
+				"tags": [
+					"text",
+					"vue",
+					"nuxt"
+				]
+			},
+			{
 				"title": "How To Sell Vue.js To Your Non-Technical Boss",
 				"link": "https://www.linkedin.com/feed/update/urn:li:activity:6459380461155155968/",
 				"date": "20 Oct 2018",
