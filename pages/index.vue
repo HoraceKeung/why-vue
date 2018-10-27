@@ -373,6 +373,15 @@ export default {
 				]
 			},
 			{
+				"title": "Why Is Vue.js Growing so fast? 4 Reasons Behind the Framework's Success",
+				"link": "https://www.netguru.co/blog/why-is-vue.js-growing-so-fast-4-reasons-behind-the-frameworks-success",
+				"date": "23 May 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Anyway, this is why I prefer Vue over React",
 				"link": "https://itnext.io/anyway-this-is-why-i-prefer-vue-over-react-ad2653595fc5",
 				"date": "16 May 2018",
@@ -393,6 +402,15 @@ export default {
 				]
 			},
 			{
+				"title": "How I Fell in Love with VueJS – Umbraco-Festival Deutschland 2018",
+				"link": "https://www.youtube.com/watch?v=yJTvlHzHv6g",
+				"date": "11 May 2018",
+				"tags": [
+					"video",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue on 2018 — Interview with Evan You, author of the Vue.js framework",
 				"link": "https://blog.reactiveconf.com/vue-on-2018-interview-with-evan-you-author-of-the-vue-js-framework-26bba150a184",
 				"date": "10 May 2018",
@@ -409,6 +427,15 @@ export default {
 					"video",
 					"vue",
 					"react"
+				]
+			},
+			{
+				"title": "Vue.js Futures: Vuejs popularity and why choose vuejs?",
+				"link": "https://webcase.studio/blog/whats-future-vuejs/",
+				"date": "20 Apr 2018",
+				"tags": [
+					"text",
+					"vue"
 				]
 			},
 			{
@@ -439,6 +466,15 @@ export default {
 					"video",
 					"vue",
 					"react"
+				]
+			},
+			{
+				"title": "5 reasons developers are switching to Vue.js",
+				"link": "https://www.heartinternet.uk/blog/5-reasons-developers-are-switching-to-vue-js-from-other-frameworks/",
+				"date": "12 Apr 2018",
+				"tags": [
+					"text",
+					"vue"
 				]
 			},
 			{
@@ -477,6 +513,76 @@ export default {
 					"text",
 					"vue",
 					"react"
+				]
+			},
+			{
+				"title": "How and why mkdev moved to Vue.js",
+				"link": "https://mkdev.me/en/posts/how-and-why-mkdev-moved-to-vue-js",
+				"date": "11 Feb 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "WHY IT’S BETTER TO USE VUE.JS THAN ANGULAR AND REACT IN 2018",
+				"link": "https://kruschecompany.com/blog/post/why-its-better-to-use-vuejs-than-angular-and-react-in-2018",
+				"date": "5 Feb 2018",
+				"tags": [
+					"text",
+					"vue",
+					"react",
+					"angular"
+				]
+			},
+			{
+				"title": "10 things I love about Vue",
+				"link": "https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2",
+				"date": "31 Jan 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Why has Vue.js become so popular?",
+				"link": "https://hub.packtpub.com/why-has-vuejs-become-so-popular/",
+				"date": "19 Jan 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Why 43% of Front-End Developers want to learn Vue.js",
+				"link": "https://www.youtube.com/watch?v=p1iLqZnZPdo",
+				"date": "21 Dec 2017",
+				"tags": [
+					"video",
+					"vue"
+				]
+			},
+			{
+				"title": "WHY I CHOSE VUE.JS OVER REACT OR ANGULAR TO REPLACE JQUERY",
+				"link": "https://blog.hellocomet.co/why-i-chose-to-replace-jquery-with-vuejs/",
+				"date": "12 Dec 2017",
+				"tags": [
+					"text",
+					"vue",
+					"react",
+					"angular",
+					"jquery"
+				]
+			},
+			{
+				"title": "Why Vue?",
+				"link": "https://blog.cloudboost.io/why-vue-126a612b4ad9",
+				"date": "13 Nov 2017",
+				"tags": [
+					"text",
+					"vue",
+					"react",
+					"angular"
 				]
 			},
 			{
