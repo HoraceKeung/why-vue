@@ -274,6 +274,15 @@ export default {
 				]
 			},
 			{
+				"title": "Betting on Vue JS with Gregg Pollack",
+				"link": "https://www.ctothink.com/episodes/29-gregg-pollack-of-vue-mastery",
+				"date": "1 Aug 2018",
+				"tags": [
+					"audio",
+					"vue"
+				]
+			},
+			{
 				"title": "I created the exact same app in React and Vue. Here are the differences.",
 				"link": "https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd",
 				"date": "24 Jul 2018",
