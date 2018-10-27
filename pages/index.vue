@@ -69,6 +69,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Bad Arguments Against Vue.js",
+				"link": "https://www.linkedin.com/feed/update/urn:li:activity:6461794133576085505/",
+				"date": "27 Oct 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue.js: Power and Flexiblity",
 				"link": "https://www.youtube.com/watch?v=3aEm4Id5mTo",
 				"date": "25 Oct 2018",
