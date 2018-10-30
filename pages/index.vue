@@ -69,6 +69,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Getting Your Company To Switch To Vue",
+				"link": "https://vuejsdevelopers.com/2018/10/29/get-your-company-to-choose-vue/",
+				"date": "29 Oct 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Bad Arguments Against Vue.js",
 				"link": "https://www.linkedin.com/feed/update/urn:li:activity:6461794133576085505/",
 				"date": "27 Oct 2018",
