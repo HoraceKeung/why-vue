@@ -78,6 +78,15 @@ export default {
 				]
 			},
 			{
+				"title": "Should you Learn Angular in 2018?",
+				"link": "https://www.youtube.com/watch?v=sU934oGMaOM",
+				"date": "7 Nov 2018",
+				"tags": [
+					"video",
+					"angular"
+				]
+			},
+			{
 				"title": "Getting Your Company To Switch To Vue",
 				"link": "https://vuejsdevelopers.com/2018/10/29/get-your-company-to-choose-vue/",
 				"date": "29 Oct 2018",
