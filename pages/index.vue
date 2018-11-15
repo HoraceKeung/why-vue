@@ -69,6 +69,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue: What Businesses Need to Know",
+				"link": "https://specific-group.com/blog/vue-javascript-what-businesses-need-know/",
+				"date": "9 Nov 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Getting Your Company To Switch To Vue",
 				"link": "https://vuejsdevelopers.com/2018/10/29/get-your-company-to-choose-vue/",
 				"date": "29 Oct 2018",
