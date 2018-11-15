@@ -256,6 +256,24 @@ export default {
 				]
 			},
 			{
+				"title": "State of Vue.js in 2018",
+				"link": "https://naturaily.com/blog/vue-js-2018",
+				"date": "20 Aug 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "3 reasons to use Vue.js in your next web project",
+				"link": "https://prismic.io/blog/3-reasons-to-use-vuejs-in-your-next-web-project",
+				"date": "10 Aug 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "How Tiny & Powerful Vue.js Helps to Keep the Front-End Code Clean (Actual Web App Demonstrations)",
 				"link": "https://medium.com/flow-studio/how-tiny-powerful-vue-js-helps-to-keep-the-front-end-code-clean-actual-web-app-demonstrations-47c734e61791",
 				"date": "6 Aug 2018",
@@ -439,6 +457,16 @@ export default {
 				]
 			},
 			{
+				"title": "Why should you use Vue.js when using Laravel",
+				"link": "https://blog.pusher.com/why-vuejs-laravel/",
+				"date": "3 May 2018",
+				"tags": [
+					"text",
+					"vue",
+					"Laravel"
+				]
+			},
+			{
 				"title": "Vue.js Futures: Vuejs popularity and why choose vuejs?",
 				"link": "https://webcase.studio/blog/whats-future-vuejs/",
 				"date": "20 Apr 2018",
@@ -487,6 +515,15 @@ export default {
 				]
 			},
 			{
+				"title": "Why Vue Is So Awesome",
+				"link": "https://praveenpuglia.com/why-vue-is-so-awesome/",
+				"date": "6 Apr 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue Better Than React?",
 				"link": "https://www.youtube.com/watch?v=eDJGOxqD5N0",
 				"date": "28 Mar 2018",
@@ -499,6 +536,15 @@ export default {
 			{
 				"title": "13 Top Companies That Have Trusted Vue.js – Examples of Applications",
 				"link": "https://www.netguru.co/blog/13-top-companies-that-have-trusted-vue.js-examples-of-applications",
+				"date": "21 Mar 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Why You Should Use Vue JS For Your Front-End",
+				"link": "https://thewebtier.com/javascript/why-you-should-use-vue-js-for-your-front-end/",
 				"date": "21 Mar 2018",
 				"tags": [
 					"text",
@@ -598,6 +644,46 @@ export default {
 				"title": "What is Vue.js and What are its Advantages",
 				"link": "https://hackernoon.com/what-is-vue-js-and-what-are-its-advantages-4071b7c7993d",
 				"date": "25 Oct 2017",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)",
+				"link": "https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163",
+				"date": "31 Aug 2017",
+				"tags": [
+					"text",
+					"vue",
+					"react",
+					"angular"
+				]
+			},
+			{
+				"title": "Will Vue.js Become a Giant Like Angular or React?",
+				"link": "https://10clouds.com/blog/vuejs-angular-react/",
+				"date": "14 Jun 2017",
+				"tags": [
+					"text",
+					"vue",
+					"react",
+					"angular"
+				]
+			},
+			{
+				"title": "Why we chose Vue.js",
+				"link": "https://about.gitlab.com/2016/10/20/why-we-chose-vue/",
+				"date": "20 Oct 2016",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Getting Started with Vue.js: Why Use it?",
+				"link": "https://www.codementor.io/javascript/tutorial/getting-started-with-vuejs",
+				"date": "13 Oct 2016",
 				"tags": [
 					"text",
 					"vue"
