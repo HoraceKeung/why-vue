@@ -144,7 +144,7 @@ export default {
 			},
 			{
 				"title": "The Cynical Developer Episode 99 - VueJs",
-				"link": "https://player.fm/series/series-1580340/episode-99-vuejs",
+				"link": "https://www.youtube.com/watch?v=57Z4BMK8B6U",
 				"date": "15 Oct 2018",
 				"tags": [
 					"audio",
