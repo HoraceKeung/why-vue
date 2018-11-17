@@ -69,6 +69,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Developing with Vue.js, Node.js, and MongoDB | Episode 18 - HTML All The Things Podcast",
+				"link": "https://www.youtube.com/watch?v=mJrKQN4pn9Q",
+				"date": "15 Nov 2018",
+				"tags": [
+					"audio",
+					"vue",
+					"node"
+				]
+			},
+			{
 				"title": "Vue: What Businesses Need to Know",
 				"link": "https://specific-group.com/blog/vue-javascript-what-businesses-need-know/",
 				"date": "9 Nov 2018",
