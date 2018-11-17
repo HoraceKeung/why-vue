@@ -69,6 +69,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Evan You Previews Vue.js 3.0",
+				"link": "https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547",
+				"date": "15 Nov 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Developing with Vue.js, Node.js, and MongoDB | Episode 18 - HTML All The Things Podcast",
 				"link": "https://www.youtube.com/watch?v=mJrKQN4pn9Q",
 				"date": "15 Nov 2018",
