@@ -69,6 +69,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Ionic Framework Officially Announces Vue.js Support, Contributed By Modus Create",
+				"link": "https://moduscreate.com/blog/ionic-vue-modus-labs/",
+				"date": "20 Nov 2018",
+				"tags": [
+					"text",
+					"vue",
+					"ionic"
+				]
+			},
+			{
 				"title": "Evan You Previews Vue.js 3.0",
 				"link": "https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547",
 				"date": "15 Nov 2018",
