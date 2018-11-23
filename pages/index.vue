@@ -69,6 +69,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Evan You - Vue 3.0 Updates : Vue Fes Japan 2018",
+				"link": "https://www.youtube.com/watch?v=zBOlIvrYWHY",
+				"date": "22 Nov 2018",
+				"tags": [
+					"video",
+					"vue"
+				]
+			},
+			{
 				"title": "Ionic Framework Officially Announces Vue.js Support, Contributed By Modus Create",
 				"link": "https://moduscreate.com/blog/ionic-vue-modus-labs/",
 				"date": "20 Nov 2018",
