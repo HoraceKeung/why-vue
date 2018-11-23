@@ -162,6 +162,15 @@ export default {
 				]
 			},
 			{
+				"title": "New to Front End Dev? Get Rocking With Vue.js",
+				"link": "https://www.vuemastery.com/conferences/connect-tech-2018/Get-Rocking-With-Vue.js/",
+				"date": "17 Oct 2018",
+				"tags": [
+					"Video",
+					"vue"
+				]
+			},
+			{
 				"title": "Why Companies Should Choose Vue.js For Application Development",
 				"link": "https://www.rishabhsoft.com/blog/vuejs-development",
 				"date": "17 Oct 2018",
@@ -716,6 +725,25 @@ export default {
 					"vue",
 					"react",
 					"angular"
+				]
+			},
+			{
+				"title": "A new Vue for NativeScript",
+				"link": "https://www.nativescript.org/blog/a-new-vue-for-nativescript",
+				"date": "6 Jun 2017",
+				"tags": [
+					"text",
+					"vue",
+					"NativeScript"
+				]
+			},
+			{
+				"title": "4 Things Vue.js Got Right",
+				"link": "https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004",
+				"date": "10 Nov 2016",
+				"tags": [
+					"text",
+					"vue"
 				]
 			},
 			{
