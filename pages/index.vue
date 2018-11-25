@@ -69,6 +69,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why Vue.js is Taking Over the Front-end World - Gwendolyn Faraday",
+				"link": "https://www.youtube.com/watch?v=KIR0ftm-HNc",
+				"date": "23 Nov 2018",
+				"tags": [
+					"video",
+					"vue"
+				]
+			},
+			{
 				"title": "Evan You - Vue 3.0 Updates : Vue Fes Japan 2018",
 				"link": "https://www.youtube.com/watch?v=zBOlIvrYWHY",
 				"date": "22 Nov 2018",
