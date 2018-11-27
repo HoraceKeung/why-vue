@@ -724,6 +724,14 @@ export default {
 				]
 			},
 			{
+				"title": "How car2go chose a frontend framework",
+				"link": "https://medium.com/car2godevs/how-car2go-chose-a-frontend-framework-86b4838c64b0",
+				"date": "4 Sep 2017",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)",
 				"link": "https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163",
 				"date": "31 Aug 2017",
@@ -753,6 +761,16 @@ export default {
 					"text",
 					"vue",
 					"NativeScript"
+				]
+			},
+			{
+				"title": "Why we chose Vue.js over React",
+				"link": "https://pixeljets.com/blog/why-we-chose-vuejs-over-react/",
+				"date": "10 Dec 2016",
+				"tags": [
+					"text",
+					"vue",
+					"react"
 				]
 			},
 			{
