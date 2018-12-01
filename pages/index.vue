@@ -87,6 +87,18 @@ export default {
 				]
 			},
 			{
+				"title": "Why I chose Vue.js over React or Angular to replace jQuery",
+				"link": "https://blog.comet.co/why-i-chose-vue-js-over-react-or-angular-to-replace-jquery/",
+				"date": "20 Nov 2018",
+				"tags": [
+					"text",
+					"vue",
+					"react",
+					"angular",
+					"jquery"
+				]
+			},
+			{
 				"title": "Ionic Framework Officially Announces Vue.js Support, Contributed By Modus Create",
 				"link": "https://moduscreate.com/blog/ionic-vue-modus-labs/",
 				"date": "20 Nov 2018",
@@ -213,15 +225,6 @@ export default {
 				"date": "15 Oct 2018",
 				"tags": [
 					"audio",
-					"vue"
-				]
-			},
-			{
-				"title": "aTeamIndia – Use Vue js for Front End Applications",
-				"link": "https://www.ateamindia.com/ateamindia-use-vue-js-for-front-end-applications/",
-				"date": "15 Oct 2018",
-				"tags": [
-					"text",
 					"vue"
 				]
 			},
@@ -689,18 +692,6 @@ export default {
 				"tags": [
 					"video",
 					"vue"
-				]
-			},
-			{
-				"title": "WHY I CHOSE VUE.JS OVER REACT OR ANGULAR TO REPLACE JQUERY",
-				"link": "https://blog.hellocomet.co/why-i-chose-to-replace-jquery-with-vuejs/",
-				"date": "12 Dec 2017",
-				"tags": [
-					"text",
-					"vue",
-					"react",
-					"angular",
-					"jquery"
 				]
 			},
 			{
