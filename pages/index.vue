@@ -109,6 +109,16 @@ export default {
 				]
 			},
 			{
+				"title": "How to use VueJs instead of jQuery",
+				"link": "https://medium.com/kaliop/how-to-use-vuejs-instead-of-jquery-ee6003ba323d",
+				"date": "19 Nov 2018",
+				"tags": [
+					"text",
+					"vue",
+					"jquery"
+				]
+			},
+			{
 				"title": "Evan You Previews Vue.js 3.0",
 				"link": "https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547",
 				"date": "15 Nov 2018",
