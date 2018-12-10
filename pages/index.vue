@@ -69,6 +69,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js and PWA - The Perfect Duo? We Decided To Check It Out.",
+				"link": "https://www.netguru.co/blog/vue.js-and-pwa-the-perfect-duo-we-decided-to-check-it-out",
+				"date": "4 Dec 2018",
+				"tags": [
+					"text",
+					"vue",
+					"PWA"
+				]
+			},
+			{
 				"title": "Why Vue.js is Taking Over the Front-end World - Gwendolyn Faraday",
 				"link": "https://www.youtube.com/watch?v=KIR0ftm-HNc",
 				"date": "23 Nov 2018",
