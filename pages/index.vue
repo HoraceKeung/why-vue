@@ -69,6 +69,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "A Vue from Ionic with Josh Thomas",
+				"link": "https://www.youtube.com/watch?v=Cpqjglf_tYI",
+				"date": "12 Dec 2018",
+				"tags": [
+					"video",
+					"vue",
+					"ionic"
+				]
+			},
+			{
 				"title": "Vue.js and PWA - The Perfect Duo? We Decided To Check It Out.",
 				"link": "https://www.netguru.co/blog/vue.js-and-pwa-the-perfect-duo-we-decided-to-check-it-out",
 				"date": "4 Dec 2018",
