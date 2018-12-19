@@ -64,3 +64,6 @@ img {
 .grad {
 	background-image: linear-gradient(config('colors.police-blue'), config('colors.mint'));
 }
+#loader-container {
+	width: 100% !important;
+}

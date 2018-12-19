@@ -38,6 +38,21 @@
 								</div>
 							</div>
 						</template>
+						<template slot="loading">
+							<div class="shadow-md bg-white w-full h-full rounded border border-police-blue flex flex-col grad">
+								<div class="h-48 bg-contain bg-center bg-no-repeat"></div>
+								<div class="p-4 flex flex-col flex-1 bg-white rounded-b">
+									<p class="text-sm mb-2">{{r.date}}</p>
+									<a :href="r.link" target="_blank" class="font-bold text-xl mb-2">{{r.title}}</a>
+									<div class="flex flex-wrap -mx-1">
+										<div v-for="t in r.tags" :key="r.title+t" class="px-1 mb-4">
+											<button type="button" class="btn rounded p-1 capitalize" @click="searchWord=t">{{t}}</button>
+										</div>
+									</div>
+									<a :href="r.link" target="_blank" class="btn rounded-xl py-2 px-4 text-center w-32 mx-auto mt-auto">Vue More</a>
+								</div>
+							</div>
+						</template>
 					</link-prevue>
 				</div>
 			</div>
@@ -68,6 +83,15 @@ export default {
 		showMobileSearch: false,
 		searchWord: null,
 		resources: [
+			{
+				"title": "Reasons Why Vue.js Is Getting More Traction Every Month",
+				"link": "https://www.monterail.com/blog/reasons-why-vuejs-is-popular",
+				"date": "19 Dec 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
 			{
 				"title": "A Vue from Ionic with Josh Thomas",
 				"link": "https://www.youtube.com/watch?v=Cpqjglf_tYI",

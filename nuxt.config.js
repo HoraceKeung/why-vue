@@ -1,13 +1,4 @@
-import path from 'path'
-import PurgecssPlugin from 'purgecss-webpack-plugin'
-import glob from 'glob-all'
 import whitelister from 'purgecss-whitelister'
-
-class TailwindExtractor {
-	static extract (content) {
-		return content.match(/[A-Za-z0-9-_:\/]+/g) || []
-	}
-}
 
 module.exports = {
 	mode: 'spa',
@@ -30,7 +21,10 @@ module.exports = {
 	workbox: {
 		runtimeCaching: [{urlPattern: '/why-vue/_nuxt/.*'}]
 	},
-	modules: ['@nuxtjs/pwa'],
+	modules: ['nuxt-purgecss', '@nuxtjs/pwa'],
+	purgeCSS: {
+		whitelist: () => whitelister(['./assets/css/*.css', './node_modules/vue-backtotop/src/styles.css'])
+	},
 	build: {
 		extractCSS: true,
 		// Run ESLint on save
@@ -42,23 +36,6 @@ module.exports = {
 					loader: 'eslint-loader',
 					exclude: /(node_modules)/
 				})
-			}
-			// Cleanup CSS with PurgeCSS
-			if (!isDev) {
-				config.plugins.push(
-					new PurgecssPlugin({
-						paths: glob.sync([
-							path.join(__dirname, './pages/**/*.vue'),
-							path.join(__dirname, './layouts/**/*.vue'),
-							path.join(__dirname, './components/**/*.vue')
-						]),
-						extractors: [{
-							extractor: TailwindExtractor,
-							extensions: ['vue']
-						}],
-						whitelist: whitelister(['./assets/css/*.css', './node_modules/vue-backtotop/src/styles.css'])
-					})
-				)
 			}
 		}
 	},
