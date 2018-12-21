@@ -93,6 +93,15 @@ export default {
 				]
 			},
 			{
+				"title": "Taking on Google and Facebook as a Solo Open-Source Founder with Evan You of Vue.js",
+				"link": "https://www.indiehackers.com/podcast/078-evan-you-of-vue",
+				"date": "14 Dec 2018",
+				"tags": [
+					"audio",
+					"vue"
+				]
+			},
+			{
 				"title": "A Vue from Ionic with Josh Thomas",
 				"link": "https://www.youtube.com/watch?v=Cpqjglf_tYI",
 				"date": "12 Dec 2018",
