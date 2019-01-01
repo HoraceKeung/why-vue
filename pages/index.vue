@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Seven reasons to learn Vue.js in 2019",
+				"link": "https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o",
+				"date": "1 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Reasons Why Vue.js Is Getting More Traction Every Month",
 				"link": "https://www.monterail.com/blog/reasons-why-vuejs-is-popular",
 				"date": "19 Dec 2018",
