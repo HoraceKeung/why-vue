@@ -549,6 +549,15 @@ export default {
 				]
 			},
 			{
+				"title": "AN OVERVIEW OF VUE.JS",
+				"link": "https://flaviocopes.com/vue-introduction/",
+				"date": "28 May 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Why Is Vue.js Growing so fast? 4 Reasons Behind the Framework's Success",
 				"link": "https://www.netguru.co/blog/why-is-vue.js-growing-so-fast-4-reasons-behind-the-frameworks-success",
 				"date": "23 May 2018",
