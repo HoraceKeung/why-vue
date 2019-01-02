@@ -93,6 +93,16 @@ export default {
 				]
 			},
 			{
+				"title": "10 reasons I chose VueJS over ReactJS",
+				"link": "https://medium.com/@hoanglamhuynh/10-differences-between-vuejs-and-reactjs-733d4b8b07b7",
+				"date": "26 Dec 2018",
+				"tags": [
+					"text",
+					"vue",
+					"react"
+				]
+			},
+			{
 				"title": "Reasons Why Vue.js Is Getting More Traction Every Month",
 				"link": "https://www.monterail.com/blog/reasons-why-vuejs-is-popular",
 				"date": "19 Dec 2018",
