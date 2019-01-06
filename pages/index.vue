@@ -865,6 +865,16 @@ export default {
 				]
 			},
 			{
+				"title": "Vue.js is easier to learn than jQuery",
+				"link": "https://medium.com/js-dojo/vue-js-is-easier-to-learn-than-jquery-abbbb9c12cf8",
+				"date": "25 Oct 2016",
+				"tags": [
+					"text",
+					"vue",
+					"jquery"
+				]
+			},
+			{
 				"title": "Why we chose Vue.js",
 				"link": "https://about.gitlab.com/2016/10/20/why-we-chose-vue/",
 				"date": "20 Oct 2016",
