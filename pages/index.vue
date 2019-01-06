@@ -883,6 +883,15 @@ export default {
 				]
 			},
 			{
+				"title": "7 Reasons to Use Vue.js",
+				"link": "https://www.pop-art.com/7-reasons-to-use-vue-js/",
+				"date": "2 Jun 2016",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Adding Vue.js to Your Technology Stack",
 				"link": "https://www.monterail.com/vuejs-development-guide",
 				"tags": [
