@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Advantages of building applications with Vue.js",
+				"link": "https://medium.com/@dineshk8/advantages-of-building-applications-with-vue-js-b2a23e4199c8",
+				"date": "3 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Seven reasons to learn Vue.js in 2019",
 				"link": "https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o",
 				"date": "1 Jan 2019",
