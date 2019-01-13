@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js is omakase",
+				"link": "https://dev.to/rossta/vuejs-is-omakase-aej",
+				"date": "9 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Advantages of building applications with Vue.js",
 				"link": "https://medium.com/@dineshk8/advantages-of-building-applications-with-vue-js-b2a23e4199c8",
 				"date": "3 Jan 2019",
