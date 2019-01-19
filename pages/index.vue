@@ -547,6 +547,16 @@ export default {
 				]
 			},
 			{
+				"title": "Vue.js: the good, the meh, and the ugly",
+				"link": "https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684",
+				"date": "19 Jun 2018",
+				"tags": [
+					"text",
+					"vue",
+					"react"
+				]
+			},
+			{
 				"title": "It is a nice Vue on Top!",
 				"link": "https://www.facebook.com/groups/vuejsdevelopers/permalink/455027051575983/",
 				"date": "15 Jun 2018",
@@ -916,6 +926,14 @@ export default {
 				"date": "2 Jun 2016",
 				"tags": [
 					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "The Official Vue News",
+				"link": "https://news.vuejs.org/",
+				"tags": [
+					"audio",
 					"vue"
 				]
 			},
