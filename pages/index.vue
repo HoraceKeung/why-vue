@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "A Thorough Introduction to Vue.js",
+				"link": "https://unyscape.com/a-thorough-introduction-to-vue-js/",
+				"date": "9 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue.js is omakase",
 				"link": "https://dev.to/rossta/vuejs-is-omakase-aej",
 				"date": "9 Jan 2019",
