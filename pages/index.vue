@@ -102,6 +102,16 @@ export default {
 				]
 			},
 			{
+				"title": "Ember.js vs Vue.js: Which Javascript Framework Breaks the Jinx?",
+				"link": "https://www.konstantinfo.com/blog/ember-js-vs-vue-js/",
+				"date": "7 Jan 2019",
+				"tags": [
+					"text",
+					"vue",
+					"ember"
+				]
+			},
+			{
 				"title": "Advantages of building applications with Vue.js",
 				"link": "https://medium.com/@dineshk8/advantages-of-building-applications-with-vue-js-b2a23e4199c8",
 				"date": "3 Jan 2019",
