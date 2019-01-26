@@ -84,6 +84,24 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Introduction to Vue.js",
+				"link": "https://levelup.gitconnected.com/introduction-to-vue-js-956a7f96c9ba",
+				"date": "25 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "How to Tell If Vue.js Is the Right Framework for Your Next Project",
+				"link": "https://www.sitepoint.com/vue-right-framework/",
+				"date": "25 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "A Thorough Introduction to Vue.js",
 				"link": "https://unyscape.com/a-thorough-introduction-to-vue-js/",
 				"date": "9 Jan 2019",
@@ -96,6 +114,15 @@ export default {
 				"title": "Vue.js is omakase",
 				"link": "https://dev.to/rossta/vuejs-is-omakase-aej",
 				"date": "9 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "Vue in 2019 - where it is and where it’s heading",
+				"link": "https://naturaily.com/blog/vue-2019",
+				"date": "8 Jan 2019",
 				"tags": [
 					"text",
 					"vue"
@@ -869,6 +896,15 @@ export default {
 					"vue",
 					"react",
 					"angular"
+				]
+			},
+			{
+				"title": "Why We Love, Use, And Support Vue.js",
+				"link": "https://www.monterail.com/blog/why-we-use-vuejs",
+				"date": "20 Jun 2017",
+				"tags": [
+					"text",
+					"vue"
 				]
 			},
 			{
