@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why You Should Use Vue & Vuetify in 2019",
+				"link": "https://www.youtube.com/watch?v=cmHVnAC6V3A",
+				"date": "26 Jan 2019",
+				"tags": [
+					"video",
+					"vue"
+				]
+			},
+			{
 				"title": "Introduction to Vue.js",
 				"link": "https://levelup.gitconnected.com/introduction-to-vue-js-956a7f96c9ba",
 				"date": "25 Jan 2019",
