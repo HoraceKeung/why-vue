@@ -111,6 +111,16 @@ export default {
 				]
 			},
 			{
+				"title": "VoV 045: Comparing the React and Vue Ecosystems with a Real-World SPA with John Datserakis",
+				"link": "https://devchat.tv/views-on-vue/vov-045-comparing-the-react-and-vue-ecosystems-with-a-real-world-spa-with-john-datserakis/",
+				"date": "22 Jan 2019",
+				"tags": [
+					"audio",
+					"vue",
+					"react"
+				]
+			},
+			{
 				"title": "A Thorough Introduction to Vue.js",
 				"link": "https://unyscape.com/a-thorough-introduction-to-vue-js/",
 				"date": "9 Jan 2019",
