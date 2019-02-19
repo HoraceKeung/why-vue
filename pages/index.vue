@@ -84,6 +84,17 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue vs Angular vs React in 2019 - Answered",
+				"link": "https://www.linkedin.com/pulse/vue-vs-angular-react-2019-answered-vamshi-krishna/",
+				"date": "19 Feb 2019",
+				"tags": [
+					"text",
+					"vue",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why You Should Use Vue & Vuetify in 2019",
 				"link": "https://www.youtube.com/watch?v=cmHVnAC6V3A",
 				"date": "26 Jan 2019",
