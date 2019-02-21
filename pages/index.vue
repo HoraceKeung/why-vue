@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Exploring the Future of Front-end at the Vue.js Amsterdam Conference",
+				"link": "https://www.screenmedia.co.uk/news/2019/february/exploring-the-future-of-front-end-at-the-vuejs-amsterdam-conference/",
+				"date": "20 Feb 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue vs Angular vs React in 2019 - Answered",
 				"link": "https://www.linkedin.com/pulse/vue-vs-angular-react-2019-answered-vamshi-krishna/",
 				"date": "19 Feb 2019",
