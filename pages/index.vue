@@ -442,6 +442,15 @@ export default {
 				]
 			},
 			{
+				"title": "Who uses Vue.js on production? Why Facebook, Netflix and Behance love Vue",
+				"link": "https://www.ironin.it/blog/who-uses-vue.js-on-production-why-facebook-netflix-and-behance-love-vue.html",
+				"date": "27 Sep 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "The 10 talks and many highlights of Vue London",
 				"link": "https://www.netlify.com/blog/2018/09/27/the-10-talks-and-many-highlights-of-vue-london/",
 				"date": "27 Sep 2018",
