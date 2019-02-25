@@ -104,6 +104,15 @@ export default {
 				]
 			},
 			{
+				"title": "The Evolution and Rapid Rise of VueJS",
+				"link": "https://www.synerzip.com/blog/vuejs-evolution-rapid-rise/",
+				"date": "18 Feb 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Why You Should Use Vue & Vuetify in 2019",
 				"link": "https://www.youtube.com/watch?v=cmHVnAC6V3A",
 				"date": "26 Jan 2019",
