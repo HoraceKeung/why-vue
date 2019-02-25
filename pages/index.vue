@@ -113,6 +113,16 @@ export default {
 				]
 			},
 			{
+				"title": "NativeScript 5.2 Comes with Official Support for Vue.js",
+				"link": "https://www.nativescript.org/blog/nativescript-5.2-comes-with-official-support-for-vue",
+				"date": "14 Feb 2019",
+				"tags": [
+					"text",
+					"vue",
+					"NativeScript"
+				]
+			},
+			{
 				"title": "Why You Should Use Vue & Vuetify in 2019",
 				"link": "https://www.youtube.com/watch?v=cmHVnAC6V3A",
 				"date": "26 Jan 2019",
