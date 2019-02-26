@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js Framework with Evan You & Pratik Patel",
+				"link": "https://www.youtube.com/watch?v=8iJsAAPA-YE",
+				"date": "26 Feb 2019",
+				"tags": [
+					"video",
+					"vue"
+				]
+			},
+			{
 				"title": "Exploring the Future of Front-end at the Vue.js Amsterdam Conference",
 				"link": "https://www.screenmedia.co.uk/news/2019/february/exploring-the-future-of-front-end-at-the-vuejs-amsterdam-conference/",
 				"date": "20 Feb 2019",
