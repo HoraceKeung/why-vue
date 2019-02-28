@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why You Should Start Front-End by Learning Vue.js",
+				"link": "https://vuejsfeed.com/blog/why-you-should-start-front-end-by-learning-vue-js",
+				"date": "28 Feb 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue.js Framework with Evan You & Pratik Patel",
 				"link": "https://www.youtube.com/watch?v=8iJsAAPA-YE",
 				"date": "26 Feb 2019",
