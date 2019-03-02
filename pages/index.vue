@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "All The Numbers From The State of Vue.js Report 2019",
+				"link": "https://www.monterail.com/blog/state-of-vuejs-2019",
+				"date": "1 Mar 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Why You Should Start Front-End by Learning Vue.js",
 				"link": "https://vuejsfeed.com/blog/why-you-should-start-front-end-by-learning-vue-js",
 				"date": "28 Feb 2019",
