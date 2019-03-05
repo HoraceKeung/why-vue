@@ -150,6 +150,16 @@ export default {
 				]
 			},
 			{
+				"title": "Why I learn Vuejs as a backend developer",
+				"link": "https://codelikemad.com.ng/why-i-learn-vuejs-as-a-backend-developer/",
+				"date": "16 Feb 2019",
+				"tags": [
+					"text",
+					"vue",
+					"laravel"
+				]
+			},
+			{
 				"title": "NativeScript 5.2 Comes with Official Support for Vue.js",
 				"link": "https://www.nativescript.org/blog/nativescript-5.2-comes-with-official-support-for-vue",
 				"date": "14 Feb 2019",
@@ -818,7 +828,7 @@ export default {
 				"tags": [
 					"text",
 					"vue",
-					"Laravel"
+					"laravel"
 				]
 			},
 			{
