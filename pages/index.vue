@@ -111,6 +111,16 @@ export default {
 				]
 			},
 			{
+				"title": "Migrating from Angular to Vue",
+				"link": "https://medium.com/fundbox-engineering/migrating-a-front-end-framework-and-still-committing-to-a-product-roadmap-angular-to-vue-1d5c00dd5709",
+				"date": "20 Feb 2019",
+				"tags": [
+					"text",
+					"vue",
+					"angular"
+				]
+			},
+			{
 				"title": "Exploring the Future of Front-end at the Vue.js Amsterdam Conference",
 				"link": "https://www.screenmedia.co.uk/news/2019/february/exploring-the-future-of-front-end-at-the-vuejs-amsterdam-conference/",
 				"date": "20 Feb 2019",
