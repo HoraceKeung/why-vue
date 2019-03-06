@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Point of Vue — Part 3 — Facing React",
+				"link": "https://medium.com/@vyaron/point-of-vue-part-3-facing-react-3328d8b505b2",
+				"date": "2 Mar 2019",
+				"tags": [
+					"text",
+					"vue",
+					"react"
+				]
+			},
+			{
 				"title": "All The Numbers From The State of Vue.js Report 2019",
 				"link": "https://www.monterail.com/blog/state-of-vuejs-2019",
 				"date": "1 Mar 2019",
