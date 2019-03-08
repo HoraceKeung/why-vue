@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why your company should start using Vue.js",
+				"link": "https://medium.com/@robewawebdesign/why-your-company-should-start-using-vue-js-6ac01969573",
+				"date": "7 Mar 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Point of Vue — Part 3 — Facing React",
 				"link": "https://medium.com/@vyaron/point-of-vue-part-3-facing-react-3328d8b505b2",
 				"date": "2 Mar 2019",
