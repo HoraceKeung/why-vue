@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "How is Vue.js making the Javascript world a better place",
+				"link": "https://medium.com/@fadamakis/how-is-vue-js-making-the-javascript-world-a-better-place-b3dc39ba4fe7",
+				"date": "13 Mar 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Why your company should start using Vue.js",
 				"link": "https://medium.com/@robewawebdesign/why-your-company-should-start-using-vue-js-6ac01969573",
 				"date": "7 Mar 2019",
