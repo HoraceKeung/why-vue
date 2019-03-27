@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "The VueJS Show (Scott teaches Wes)",
+				"link": "https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes",
+				"date": "27 Mar 2019",
+				"tags": [
+					"audio",
+					"vue"
+				]
+			},
+			{
 				"title": "How is Vue.js making the Javascript world a better place",
 				"link": "https://medium.com/@fadamakis/how-is-vue-js-making-the-javascript-world-a-better-place-b3dc39ba4fe7",
 				"date": "13 Mar 2019",
