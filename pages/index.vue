@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Is Vue.js Enterprise-Ready?—Large Scale Apps Use Cases",
+				"link": "https://www.monterail.com/blog/is-vuejs-enterprise-ready",
+				"date": "8 Apr 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "The VueJS Show (Scott teaches Wes)",
 				"link": "https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes",
 				"date": "27 Mar 2019",
