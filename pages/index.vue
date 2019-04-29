@@ -216,6 +216,15 @@ export default {
 				]
 			},
 			{
+				"title": "Why Companies Should Choose Vue.js For Application Development?",
+				"link": "https://www.cmarix.com/why-companies-should-choose-vue-js-for-application-development/",
+				"date": "29 Jan 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Why You Should Use Vue & Vuetify in 2019",
 				"link": "https://www.youtube.com/watch?v=cmHVnAC6V3A",
 				"date": "26 Jan 2019",
