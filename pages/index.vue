@@ -84,6 +84,34 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue JS and its Wonders",
+				"link": "https://augnitive.com/blog/vue-js-and-its-wonders",
+				"date": "3 May 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
+				"title": "What makes Vue.js easy to start using?",
+				"link": "https://www.youtube.com/watch?v=gmov250WifE",
+				"date": "2 May 2019",
+				"tags": [
+					"video",
+					"vue",
+					"nuxt"
+				]
+			},
+			{
+				"title": "Vue Js is Great, Why?",
+				"link": "https://www.ateamindia.com/vue-js-is-great-why/",
+				"date": "18 Apr 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Is Vue.js Enterprise-Ready?—Large Scale Apps Use Cases",
 				"link": "https://www.monterail.com/blog/is-vuejs-enterprise-ready",
 				"date": "8 Apr 2019",

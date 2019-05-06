@@ -1,6 +1,6 @@
 import whitelister from 'purgecss-whitelister'
 
-module.exports = {
+export default {
 	mode: 'spa',
 	head: {
 		meta: [
@@ -23,10 +23,15 @@ module.exports = {
 	},
 	modules: ['nuxt-purgecss', '@nuxtjs/pwa'],
 	purgeCSS: {
+		mode: 'postcss',
 		whitelist: () => whitelister(['./assets/css/*.css', './node_modules/vue-backtotop/src/styles.css'])
 	},
 	build: {
-		extractCSS: true,
+		postcss: {
+			plugins: {
+				tailwindcss: './tailwind.config.js'
+			}
+		},
 		// Run ESLint on save
 		extend(config, { isDev, isClient }) {
 			if (isDev && isClient) {
