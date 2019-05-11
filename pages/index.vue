@@ -694,6 +694,15 @@ export default {
 				]
 			},
 			{
+				"title": "Reason Why Most Developers are Preferring Vue.js for Developing Web Applications",
+				"link": "https://www.mindinventory.com/blog/why-choose-vuejs-for-developing-web-applications/",
+				"date": "14 Aug 2018",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "3 reasons to use Vue.js in your next web project",
 				"link": "https://prismic.io/blog/3-reasons-to-use-vuejs-in-your-next-web-project",
 				"date": "10 Aug 2018",
