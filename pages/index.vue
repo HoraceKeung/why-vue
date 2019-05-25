@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why we chose Vue",
+				"link": "https://dev.to/optoro_engineering/why-we-chose-vue-53d0",
+				"date": "17 May 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue JS and its Wonders",
 				"link": "https://augnitive.com/blog/vue-js-and-its-wonders",
 				"date": "3 May 2019",
@@ -100,6 +109,15 @@ export default {
 					"video",
 					"vue",
 					"nuxt"
+				]
+			},
+			{
+				"title": "How and Why We Moved to Vue.js",
+				"link": "https://dzone.com/articles/how-and-why-mkdev-moved-to-vuejs",
+				"date": "30 Apr 2019",
+				"tags": [
+					"text",
+					"vue"
 				]
 			},
 			{
