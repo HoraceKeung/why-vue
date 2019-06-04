@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js for agencies – reasons why & benefits in comparison with React",
+				"link": "https://divante.co/blog/vue-js-agencies-reasons-benefits-comparison-react/",
+				"date": "4 Jun 2019",
+				"tags": [
+					"text",
+					"vue",
+					"react"
+				]
+			},
+			{
 				"title": "Why we chose Vue",
 				"link": "https://dev.to/optoro_engineering/why-we-chose-vue-53d0",
 				"date": "17 May 2019",
