@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Reasons why Vue.js is Best for your UI Web Development.",
+				"link": "https://www.klipstack.com/2019/06/reasons-why-vuejs-is-best-for-your-ui.html",
+				"date": "14 Jun 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue.js for agencies – reasons why & benefits in comparison with React",
 				"link": "https://divante.co/blog/vue-js-agencies-reasons-benefits-comparison-react/",
 				"date": "4 Jun 2019",
