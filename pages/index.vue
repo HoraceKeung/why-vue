@@ -93,6 +93,15 @@ export default {
 				]
 			},
 			{
+				"title": "Why use Vue.js for UI web development?",
+				"link": "https://jaxenter.com/vue-js-for-ui-web-development-159281.html",
+				"date": "12 Jun 2019",
+				"tags": [
+					"text",
+					"vue"
+				]
+			},
+			{
 				"title": "Vue.js for agencies – reasons why & benefits in comparison with React",
 				"link": "https://divante.co/blog/vue-js-agencies-reasons-benefits-comparison-react/",
 				"date": "4 Jun 2019",
