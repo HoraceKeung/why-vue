@@ -84,12 +84,19 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Evan You: Seeking the Balance in Framework Design with Vue | JSConf.Asia 2019",
+				"link": "https://www.youtube.com/watch?v=ANtSWq-zI0s",
+				"date": "3 Jul 2019",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "Reasons why Vue.js is Best for your UI Web Development.",
 				"link": "https://www.klipstack.com/2019/06/reasons-why-vuejs-is-best-for-your-ui.html",
 				"date": "14 Jun 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -97,8 +104,7 @@ export default {
 				"link": "https://jaxenter.com/vue-js-for-ui-web-development-159281.html",
 				"date": "12 Jun 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -107,7 +113,6 @@ export default {
 				"date": "4 Jun 2019",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -116,8 +121,7 @@ export default {
 				"link": "https://dev.to/optoro_engineering/why-we-chose-vue-53d0",
 				"date": "17 May 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -125,8 +129,7 @@ export default {
 				"link": "https://augnitive.com/blog/vue-js-and-its-wonders",
 				"date": "3 May 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -135,7 +138,6 @@ export default {
 				"date": "2 May 2019",
 				"tags": [
 					"video",
-					"vue",
 					"nuxt"
 				]
 			},
@@ -144,8 +146,7 @@ export default {
 				"link": "https://dzone.com/articles/how-and-why-mkdev-moved-to-vuejs",
 				"date": "30 Apr 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -153,8 +154,7 @@ export default {
 				"link": "https://www.ateamindia.com/vue-js-is-great-why/",
 				"date": "18 Apr 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -162,8 +162,7 @@ export default {
 				"link": "https://www.monterail.com/blog/is-vuejs-enterprise-ready",
 				"date": "8 Apr 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -171,8 +170,7 @@ export default {
 				"link": "https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes",
 				"date": "27 Mar 2019",
 				"tags": [
-					"audio",
-					"vue"
+					"audio"
 				]
 			},
 			{
@@ -180,8 +178,7 @@ export default {
 				"link": "https://medium.com/@fadamakis/how-is-vue-js-making-the-javascript-world-a-better-place-b3dc39ba4fe7",
 				"date": "13 Mar 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -189,8 +186,7 @@ export default {
 				"link": "https://medium.com/@robewawebdesign/why-your-company-should-start-using-vue-js-6ac01969573",
 				"date": "7 Mar 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -199,7 +195,6 @@ export default {
 				"date": "2 Mar 2019",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -208,8 +203,7 @@ export default {
 				"link": "https://www.monterail.com/blog/state-of-vuejs-2019",
 				"date": "1 Mar 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -217,8 +211,7 @@ export default {
 				"link": "https://vuejsfeed.com/blog/why-you-should-start-front-end-by-learning-vue-js",
 				"date": "28 Feb 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -226,8 +219,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=8iJsAAPA-YE",
 				"date": "26 Feb 2019",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -236,7 +228,6 @@ export default {
 				"date": "20 Feb 2019",
 				"tags": [
 					"text",
-					"vue",
 					"angular"
 				]
 			},
@@ -245,8 +236,7 @@ export default {
 				"link": "https://www.screenmedia.co.uk/news/2019/february/exploring-the-future-of-front-end-at-the-vuejs-amsterdam-conference/",
 				"date": "20 Feb 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -255,7 +245,6 @@ export default {
 				"date": "19 Feb 2019",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -265,8 +254,7 @@ export default {
 				"link": "https://www.synerzip.com/blog/vuejs-evolution-rapid-rise/",
 				"date": "18 Feb 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -275,7 +263,6 @@ export default {
 				"date": "16 Feb 2019",
 				"tags": [
 					"text",
-					"vue",
 					"laravel"
 				]
 			},
@@ -285,7 +272,6 @@ export default {
 				"date": "14 Feb 2019",
 				"tags": [
 					"text",
-					"vue",
 					"NativeScript"
 				]
 			},
@@ -294,8 +280,7 @@ export default {
 				"link": "https://www.cmarix.com/why-companies-should-choose-vue-js-for-application-development/",
 				"date": "29 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -303,8 +288,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=cmHVnAC6V3A",
 				"date": "26 Jan 2019",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -312,8 +296,7 @@ export default {
 				"link": "https://levelup.gitconnected.com/introduction-to-vue-js-956a7f96c9ba",
 				"date": "25 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -321,8 +304,7 @@ export default {
 				"link": "https://www.sitepoint.com/vue-right-framework/",
 				"date": "25 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -331,7 +313,6 @@ export default {
 				"date": "22 Jan 2019",
 				"tags": [
 					"audio",
-					"vue",
 					"react"
 				]
 			},
@@ -340,8 +321,7 @@ export default {
 				"link": "https://unyscape.com/a-thorough-introduction-to-vue-js/",
 				"date": "9 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -349,8 +329,7 @@ export default {
 				"link": "https://dev.to/rossta/vuejs-is-omakase-aej",
 				"date": "9 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -358,8 +337,7 @@ export default {
 				"link": "https://naturaily.com/blog/vue-2019",
 				"date": "8 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -368,7 +346,6 @@ export default {
 				"date": "7 Jan 2019",
 				"tags": [
 					"text",
-					"vue",
 					"ember"
 				]
 			},
@@ -377,8 +354,7 @@ export default {
 				"link": "https://medium.com/@dineshk8/advantages-of-building-applications-with-vue-js-b2a23e4199c8",
 				"date": "3 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -386,8 +362,7 @@ export default {
 				"link": "https://dev.to/rossta/seven-reasons-learn-vuejs-in-2019-2n9o",
 				"date": "1 Jan 2019",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -396,7 +371,6 @@ export default {
 				"date": "26 Dec 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -405,8 +379,7 @@ export default {
 				"link": "https://www.monterail.com/blog/reasons-why-vuejs-is-popular",
 				"date": "19 Dec 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -414,8 +387,7 @@ export default {
 				"link": "https://www.indiehackers.com/podcast/078-evan-you-of-vue",
 				"date": "14 Dec 2018",
 				"tags": [
-					"audio",
-					"vue"
+					"audio"
 				]
 			},
 			{
@@ -424,7 +396,6 @@ export default {
 				"date": "12 Dec 2018",
 				"tags": [
 					"video",
-					"vue",
 					"ionic"
 				]
 			},
@@ -433,8 +404,7 @@ export default {
 				"link": "https://www.ae.be/blog-en/battle-of-the-frameworks-enter-vue.js",
 				"date": "5 Dec 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -443,7 +413,6 @@ export default {
 				"date": "4 Dec 2018",
 				"tags": [
 					"text",
-					"vue",
 					"PWA"
 				]
 			},
@@ -452,8 +421,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=KIR0ftm-HNc",
 				"date": "23 Nov 2018",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -461,8 +429,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=zBOlIvrYWHY",
 				"date": "22 Nov 2018",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -471,7 +438,6 @@ export default {
 				"date": "20 Nov 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular",
 					"jquery"
@@ -483,7 +449,6 @@ export default {
 				"date": "20 Nov 2018",
 				"tags": [
 					"text",
-					"vue",
 					"ionic"
 				]
 			},
@@ -493,7 +458,6 @@ export default {
 				"date": "19 Nov 2018",
 				"tags": [
 					"text",
-					"vue",
 					"jquery"
 				]
 			},
@@ -502,8 +466,7 @@ export default {
 				"link": "https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547",
 				"date": "15 Nov 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -512,7 +475,6 @@ export default {
 				"date": "15 Nov 2018",
 				"tags": [
 					"audio",
-					"vue",
 					"node"
 				]
 			},
@@ -521,8 +483,7 @@ export default {
 				"link": "https://specific-group.com/blog/vue-javascript-what-businesses-need-know/",
 				"date": "9 Nov 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -539,8 +500,7 @@ export default {
 				"link": "https://vuejsdevelopers.com/2018/10/29/get-your-company-to-choose-vue/",
 				"date": "29 Oct 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -548,8 +508,7 @@ export default {
 				"link": "https://www.linkedin.com/feed/update/urn:li:activity:6461794133576085505/",
 				"date": "27 Oct 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -557,8 +516,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=3aEm4Id5mTo",
 				"date": "25 Oct 2018",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -567,7 +525,6 @@ export default {
 				"date": "25 Oct 2018",
 				"tags": [
 					"text",
-					"vue",
 					"nuxt"
 				]
 			},
@@ -576,8 +533,7 @@ export default {
 				"link": "https://www.linkedin.com/feed/update/urn:li:activity:6459380461155155968/",
 				"date": "20 Oct 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -585,8 +541,7 @@ export default {
 				"link": "https://www.vuemastery.com/conferences/connect-tech-2018/Get-Rocking-With-Vue.js/",
 				"date": "17 Oct 2018",
 				"tags": [
-					"Video",
-					"vue"
+					"Video"
 				]
 			},
 			{
@@ -594,8 +549,7 @@ export default {
 				"link": "https://www.rishabhsoft.com/blog/vuejs-development",
 				"date": "17 Oct 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -604,7 +558,6 @@ export default {
 				"date": "16 Oct 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -613,8 +566,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=57Z4BMK8B6U",
 				"date": "15 Oct 2018",
 				"tags": [
-					"audio",
-					"vue"
+					"audio"
 				]
 			},
 			{
@@ -622,8 +574,7 @@ export default {
 				"link": "https://naturaily.com/blog/companies-vue-js-applications",
 				"date": "8 Oct 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -632,7 +583,6 @@ export default {
 				"date": "1 Oct 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -641,8 +591,7 @@ export default {
 				"link": "https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf",
 				"date": "30 Sep 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -650,8 +599,7 @@ export default {
 				"link": "https://www.ironin.it/blog/who-uses-vue.js-on-production-why-facebook-netflix-and-behance-love-vue.html",
 				"date": "27 Sep 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -659,8 +607,7 @@ export default {
 				"link": "https://www.netlify.com/blog/2018/09/27/the-10-talks-and-many-highlights-of-vue-london/",
 				"date": "27 Sep 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -668,8 +615,7 @@ export default {
 				"link": "https://www.economicmodeling.com/2018/09/18/trending-tech-tuesday-vuejs/",
 				"date": "18 Sep 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -677,8 +623,7 @@ export default {
 				"link": "https://www.linkedin.com/feed/update/activity:6446251519095369728/",
 				"date": "14 Sep 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -686,8 +631,7 @@ export default {
 				"link": "https://medium.com/@rachaelray018/why-do-developers-prefer-vue-js-over-other-frameworks-e1b7144323fe",
 				"date": "4 Sep 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -696,7 +640,6 @@ export default {
 				"date": "4 Sep 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -705,8 +648,7 @@ export default {
 				"link": "https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494",
 				"date": "29 Aug 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -715,7 +657,6 @@ export default {
 				"date": "23 Aug 2018",
 				"tags": [
 					"video",
-					"vue",
 					"react"
 				]
 			},
@@ -725,7 +666,6 @@ export default {
 				"date": "23 Aug 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -735,8 +675,7 @@ export default {
 				"link": "https://naturaily.com/blog/vue-js-2018",
 				"date": "20 Aug 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -744,8 +683,7 @@ export default {
 				"link": "https://www.mindinventory.com/blog/why-choose-vuejs-for-developing-web-applications/",
 				"date": "14 Aug 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -753,8 +691,7 @@ export default {
 				"link": "https://prismic.io/blog/3-reasons-to-use-vuejs-in-your-next-web-project",
 				"date": "10 Aug 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -762,8 +699,7 @@ export default {
 				"link": "https://medium.com/flow-studio/how-tiny-powerful-vue-js-helps-to-keep-the-front-end-code-clean-actual-web-app-demonstrations-47c734e61791",
 				"date": "6 Aug 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -771,8 +707,7 @@ export default {
 				"link": "https://devmode.fm/episodes/spelunking-into-the-vuejs-frontend-javascript-framework",
 				"date": "6 Aug 2018",
 				"tags": [
-					"audio",
-					"vue"
+					"audio"
 				]
 			},
 			{
@@ -780,8 +715,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=-y5xYznyQ1A",
 				"date": "2 Aug 2018",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -789,8 +723,7 @@ export default {
 				"link": "https://www.ctothink.com/episodes/29-gregg-pollack-of-vue-mastery",
 				"date": "1 Aug 2018",
 				"tags": [
-					"audio",
-					"vue"
+					"audio"
 				]
 			},
 			{
@@ -799,7 +732,6 @@ export default {
 				"date": "24 Jul 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -809,7 +741,6 @@ export default {
 				"date": "19 Jul 2018",
 				"tags": [
 					"video",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -820,7 +751,6 @@ export default {
 				"date": "19 Jul 2018",
 				"tags": [
 					"text",
-					"vue",
 					"angular"
 				]
 			},
@@ -830,7 +760,6 @@ export default {
 				"date": "16 Jul 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -840,7 +769,6 @@ export default {
 				"date": "12 Jul 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -849,8 +777,7 @@ export default {
 				"link": "https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446",
 				"date": "5 Jul 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -859,7 +786,6 @@ export default {
 				"date": "19 Jun 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -869,7 +795,6 @@ export default {
 				"date": "15 Jun 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -880,7 +805,6 @@ export default {
 				"date": "3 Jun 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -889,8 +813,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=8oFexUl7_DE",
 				"date": "31 May 2018",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -898,8 +821,7 @@ export default {
 				"link": "https://flaviocopes.com/vue-introduction/",
 				"date": "28 May 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -907,8 +829,7 @@ export default {
 				"link": "https://www.netguru.co/blog/why-is-vue.js-growing-so-fast-4-reasons-behind-the-frameworks-success",
 				"date": "23 May 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -917,7 +838,6 @@ export default {
 				"date": "16 May 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -927,7 +847,6 @@ export default {
 				"date": "14 May 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -936,8 +855,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=yJTvlHzHv6g",
 				"date": "11 May 2018",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -945,8 +863,7 @@ export default {
 				"link": "https://blog.reactiveconf.com/vue-on-2018-interview-with-evan-you-author-of-the-vue-js-framework-26bba150a184",
 				"date": "10 May 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -955,7 +872,6 @@ export default {
 				"date": "3 May 2018",
 				"tags": [
 					"video",
-					"vue",
 					"react"
 				]
 			},
@@ -965,7 +881,6 @@ export default {
 				"date": "3 May 2018",
 				"tags": [
 					"text",
-					"vue",
 					"laravel"
 				]
 			},
@@ -974,8 +889,7 @@ export default {
 				"link": "https://webcase.studio/blog/whats-future-vuejs/",
 				"date": "20 Apr 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -984,7 +898,6 @@ export default {
 				"date": "20 Apr 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -994,8 +907,7 @@ export default {
 				"link": "https://jaxenter.com/all-you-need-to-know-about-vuejs-143557.html",
 				"date": "18 Apr 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1004,7 +916,6 @@ export default {
 				"date": "17 Apr 2018",
 				"tags": [
 					"video",
-					"vue",
 					"react"
 				]
 			},
@@ -1013,8 +924,7 @@ export default {
 				"link": "https://www.heartinternet.uk/blog/5-reasons-developers-are-switching-to-vue-js-from-other-frameworks/",
 				"date": "12 Apr 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1022,8 +932,7 @@ export default {
 				"link": "https://praveenpuglia.com/why-vue-is-so-awesome/",
 				"date": "6 Apr 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1032,7 +941,6 @@ export default {
 				"date": "28 Mar 2018",
 				"tags": [
 					"video",
-					"vue",
 					"react"
 				]
 			},
@@ -1041,8 +949,7 @@ export default {
 				"link": "https://www.netguru.co/blog/13-top-companies-that-have-trusted-vue.js-examples-of-applications",
 				"date": "21 Mar 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1050,8 +957,7 @@ export default {
 				"link": "https://thewebtier.com/javascript/why-you-should-use-vue-js-for-your-front-end/",
 				"date": "21 Mar 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1059,8 +965,7 @@ export default {
 				"link": "https://blog.northcoders.com/whats-all-the-fuss-vuejs",
 				"date": "18 Mar 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1069,7 +974,6 @@ export default {
 				"date": "13 Feb 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -1078,8 +982,7 @@ export default {
 				"link": "https://mkdev.me/en/posts/how-and-why-mkdev-moved-to-vue-js",
 				"date": "11 Feb 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1088,7 +991,6 @@ export default {
 				"date": "5 Feb 2018",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -1098,8 +1000,7 @@ export default {
 				"link": "https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2",
 				"date": "31 Jan 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1107,8 +1008,7 @@ export default {
 				"link": "https://hub.packtpub.com/why-has-vuejs-become-so-popular/",
 				"date": "19 Jan 2018",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1116,8 +1016,7 @@ export default {
 				"link": "https://www.youtube.com/watch?v=p1iLqZnZPdo",
 				"date": "21 Dec 2017",
 				"tags": [
-					"video",
-					"vue"
+					"video"
 				]
 			},
 			{
@@ -1126,7 +1025,6 @@ export default {
 				"date": "13 Nov 2017",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -1136,8 +1034,7 @@ export default {
 				"link": "https://hackernoon.com/what-is-vue-js-and-what-are-its-advantages-4071b7c7993d",
 				"date": "25 Oct 2017",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1154,7 +1051,6 @@ export default {
 				"date": "31 Aug 2017",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -1164,8 +1060,7 @@ export default {
 				"link": "https://www.monterail.com/blog/why-we-use-vuejs",
 				"date": "20 Jun 2017",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1174,7 +1069,6 @@ export default {
 				"date": "14 Jun 2017",
 				"tags": [
 					"text",
-					"vue",
 					"react",
 					"angular"
 				]
@@ -1185,7 +1079,6 @@ export default {
 				"date": "6 Jun 2017",
 				"tags": [
 					"text",
-					"vue",
 					"NativeScript"
 				]
 			},
@@ -1195,7 +1088,6 @@ export default {
 				"date": "10 Dec 2016",
 				"tags": [
 					"text",
-					"vue",
 					"react"
 				]
 			},
@@ -1204,8 +1096,7 @@ export default {
 				"link": "https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004",
 				"date": "10 Nov 2016",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1214,7 +1105,6 @@ export default {
 				"date": "25 Oct 2016",
 				"tags": [
 					"text",
-					"vue",
 					"jquery"
 				]
 			},
@@ -1223,8 +1113,7 @@ export default {
 				"link": "https://about.gitlab.com/2016/10/20/why-we-chose-vue/",
 				"date": "20 Oct 2016",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1232,8 +1121,7 @@ export default {
 				"link": "https://www.codementor.io/javascript/tutorial/getting-started-with-vuejs",
 				"date": "13 Oct 2016",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
@@ -1241,32 +1129,28 @@ export default {
 				"link": "https://www.pop-art.com/7-reasons-to-use-vue-js/",
 				"date": "2 Jun 2016",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
 				"title": "The Official Vue News",
 				"link": "https://news.vuejs.org/",
 				"tags": [
-					"audio",
-					"vue"
+					"audio"
 				]
 			},
 			{
 				"title": "Adding Vue.js to Your Technology Stack",
 				"link": "https://www.monterail.com/vuejs-development-guide",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			},
 			{
 				"title": "Comparison with Other Frameworks",
 				"link": "https://vuejs.org/v2/guide/comparison.html",
 				"tags": [
-					"text",
-					"vue"
+					"text"
 				]
 			}
 		]
