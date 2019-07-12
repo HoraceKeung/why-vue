@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Reasons Why Vue.Js is Getting More Traction",
+				"link": "https://www.bloglovin.com/@9seriessolutions/reasons-why-vuejs-is-getting-more-traction",
+				"date": "5 Jul 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Evan You: Seeking the Balance in Framework Design with Vue | JSConf.Asia 2019",
 				"link": "https://www.youtube.com/watch?v=ANtSWq-zI0s",
 				"date": "3 Jul 2019",
