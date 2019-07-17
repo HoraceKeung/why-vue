@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "FileMaker Web Apps with Vue.js",
+				"link": "https://dbservices.com/articles/filemaker-web-apps-with-vue-js/",
+				"date": "17 Jul 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Reasons Why Vue.Js is Getting More Traction",
 				"link": "https://www.bloglovin.com/@9seriessolutions/reasons-why-vuejs-is-getting-more-traction",
 				"date": "5 Jul 2019",
@@ -263,15 +271,6 @@ export default {
 				"date": "18 Feb 2019",
 				"tags": [
 					"text"
-				]
-			},
-			{
-				"title": "Why I learn Vuejs as a backend developer",
-				"link": "https://codelikemad.com.ng/why-i-learn-vuejs-as-a-backend-developer/",
-				"date": "16 Feb 2019",
-				"tags": [
-					"text",
-					"laravel"
 				]
 			},
 			{
