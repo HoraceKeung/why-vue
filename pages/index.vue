@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "What I Like About Vue",
+				"link": "https://daverupert.com/2019/07/what-i-like-about-vue/",
+				"date": "17 Jul 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "FileMaker Web Apps with Vue.js",
 				"link": "https://dbservices.com/articles/filemaker-web-apps-with-vue-js/",
 				"date": "17 Jul 2019",
