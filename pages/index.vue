@@ -116,6 +116,14 @@ export default {
 				]
 			},
 			{
+				"title": "8 Reasons Why Vue.js is Worth Considering for Your Next Project",
+				"link": "https://www.netguru.com/blog/8-reasons-why-to-use-vuejs",
+				"date": "27 Jun 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Reasons why Vue.js is Best for your UI Web Development.",
 				"link": "https://www.klipstack.com/2019/06/reasons-why-vuejs-is-best-for-your-ui.html",
 				"date": "14 Jun 2019",
@@ -932,6 +940,14 @@ export default {
 				"tags": [
 					"video",
 					"react"
+				]
+			},
+			{
+				"title": "6 Reasons to use Vue.js",
+				"link": "https://dev.to/lynnewritescode/6-reasons-to-use-vuejs-1p6c",
+				"date": "15 Apr 2018",
+				"tags": [
+					"text"
 				]
 			},
 			{
