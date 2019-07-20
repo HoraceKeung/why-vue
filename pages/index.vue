@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "How Vue Earns Its Beginner-Friendly Reputation - with Natalia Tepluhina",
+				"link": "https://egghead.io/podcasts/how-vue-earns-its-beginner-friendly-reputation-with-natalia-tepluhina",
+				"date": "20 Jul 2019",
+				"tags": [
+					"audio"
+				]
+			},
+			{
 				"title": "What I Like About Vue",
 				"link": "https://daverupert.com/2019/07/what-i-like-about-vue/",
 				"date": "17 Jul 2019",
