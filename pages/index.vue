@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "New awesomeness coming in Vue.js",
+				"link": "https://devmode.fm/episodes/new-awesomeness-coming-in-vuejs-3-0",
+				"date": "22 Jul 2019",
+				"tags": [
+					"audio",
+					"react"
+				]
+			},
+			{
 				"title": "How Vue Earns Its Beginner-Friendly Reputation - with Natalia Tepluhina",
 				"link": "https://egghead.io/podcasts/how-vue-earns-its-beginner-friendly-reputation-with-natalia-tepluhina",
 				"date": "20 Jul 2019",
