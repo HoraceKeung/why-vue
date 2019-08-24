@@ -1009,6 +1009,15 @@ export default {
 				]
 			},
 			{
+				"title": "10 reasons to use Nuxt.js for your next web application",
+				"link": "https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b",
+				"date": "19 Mar 2018",
+				"tags": [
+					"text",
+					"nuxt"
+				]
+			},
+			{
 				"title": "What's All The Fuss About Vue.JS?",
 				"link": "https://blog.northcoders.com/whats-all-the-fuss-vuejs",
 				"date": "18 Mar 2018",
