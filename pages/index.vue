@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "GOTO 2019 • Vue and You • Matt Danforth",
+				"link": "https://www.youtube.com/watch?v=n8ERFbkt_h8",
+				"date": "29 Aug 2019",
+				"tags": [
+					"video",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "New awesomeness coming in Vue.js",
 				"link": "https://devmode.fm/episodes/new-awesomeness-coming-in-vuejs-3-0",
 				"date": "22 Jul 2019",
