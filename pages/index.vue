@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue PWA: A Progressive Web Application Example With Nuxt",
+				"link": "https://snipcart.com/blog/vue-pwa",
+				"date": "6 Sep 2019",
+				"tags": [
+					"text",
+					"nuxt",
+					"react"
+				]
+			},
+			{
 				"title": "GOTO 2019 • Vue and You • Matt Danforth",
 				"link": "https://www.youtube.com/watch?v=n8ERFbkt_h8",
 				"date": "29 Aug 2019",
