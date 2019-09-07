@@ -251,6 +251,16 @@ export default {
 				]
 			},
 			{
+				"title": "Vue.js is good, but is it better than Angular or React?",
+				"link": "http://www.valuecoders.com/blog/technology-and-apps/vue-js-comparison-angular-react",
+				"date": "10 Mar 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why your company should start using Vue.js",
 				"link": "https://medium.com/@robewawebdesign/why-your-company-should-start-using-vue-js-6ac01969573",
 				"date": "7 Mar 2019",
