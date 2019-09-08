@@ -94,6 +94,14 @@ export default {
 				]
 			},
 			{
+				"title": "VueJS ecosystem as it is today - Swapnil Agarwal",
+				"link": "https://www.youtube.com/watch?v=l1zgSTDmuQk",
+				"date": "2 Sep 2019",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "GOTO 2019 • Vue and You • Matt Danforth",
 				"link": "https://www.youtube.com/watch?v=n8ERFbkt_h8",
 				"date": "29 Aug 2019",
@@ -749,14 +757,6 @@ export default {
 				]
 			},
 			{
-				"title": "Reason Why Most Developers are Preferring Vue.js for Developing Web Applications",
-				"link": "https://www.mindinventory.com/blog/why-choose-vuejs-for-developing-web-applications/",
-				"date": "14 Aug 2018",
-				"tags": [
-					"text"
-				]
-			},
-			{
 				"title": "3 reasons to use Vue.js in your next web project",
 				"link": "https://prismic.io/blog/3-reasons-to-use-vuejs-in-your-next-web-project",
 				"date": "10 Aug 2018",
@@ -840,6 +840,14 @@ export default {
 				"tags": [
 					"text",
 					"react"
+				]
+			},
+			{
+				"title": "Reason Why Most Developers are Preferring Vue.js for Developing Web Applications",
+				"link": "https://www.mindinventory.com/blog/why-choose-vuejs-for-developing-web-applications/",
+				"date": "11 Jul 2018",
+				"tags": [
+					"text"
 				]
 			},
 			{
@@ -1094,6 +1102,14 @@ export default {
 				"title": "Why has Vue.js become so popular?",
 				"link": "https://hub.packtpub.com/why-has-vuejs-become-so-popular/",
 				"date": "19 Jan 2018",
+				"tags": [
+					"text"
+				]
+			},
+			{
+				"title": "5 Reasons to Choose Vuejs for Web Application Development",
+				"link": "https://insights.daffodilsw.com/blog/5-reasons-to-choose-vuejs-for-web-application-development",
+				"date": "22 Dec 2017",
 				"tags": [
 					"text"
 				]
