@@ -294,6 +294,18 @@ export default {
 				]
 			},
 			{
+				"title": "Vue.js from scratch - why software developers got so crazy about it?",
+				"link": "https://www.merixstudio.com/blog/vuejs-scratch-why-software-developers-got-so-crazy-about-it/",
+				"date": "28 Feb 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular",
+					"ember",
+					"jquery"
+				]
+			},
+			{
 				"title": "Why You Should Start Front-End by Learning Vue.js",
 				"link": "https://vuejsfeed.com/blog/why-you-should-start-front-end-by-learning-vue-js",
 				"date": "28 Feb 2019",
