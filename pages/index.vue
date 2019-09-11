@@ -94,6 +94,16 @@ export default {
 				]
 			},
 			{
+				"title": "Why choose Vue.js for app development?",
+				"link": "https://www.vtnetzwelt.com/web-development-blog/why-choose-vuejs/",
+				"date": "5 Sep 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "VueJS ecosystem as it is today - Swapnil Agarwal",
 				"link": "https://www.youtube.com/watch?v=l1zgSTDmuQk",
 				"date": "2 Sep 2019",
