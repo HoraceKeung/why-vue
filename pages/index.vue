@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Natalia Tepluhina | ComponentsConf 2019 | Vue 3 | Looking into the Vueture: Composition Functions",
+				"link": "https://www.youtube.com/watch?v=dy_ZB1TyFx4",
+				"date": "13 Sep 2019",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "Vue PWA: A Progressive Web Application Example With Nuxt",
 				"link": "https://snipcart.com/blog/vue-pwa",
 				"date": "6 Sep 2019",
@@ -101,6 +109,15 @@ export default {
 					"text",
 					"react",
 					"angular"
+				]
+			},
+			{
+				"title": "Introduction to Nuxt and Headless CMS",
+				"link": "https://skillsmatter.com/skillscasts/14360-front-endgineers-september-meetup",
+				"date": "5 Sep 2019",
+				"tags": [
+					"video",
+					"nuxt"
 				]
 			},
 			{
