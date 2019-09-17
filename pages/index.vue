@@ -92,6 +92,16 @@ export default {
 				]
 			},
 			{
+				"title": "Why Vuejs is so Awesome?",
+				"link": "https://medium.com/@ajgihan/why-vuejs-is-so-awesome-926e6afed41",
+				"date": "12 Sep 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Vue PWA: A Progressive Web Application Example With Nuxt",
 				"link": "https://snipcart.com/blog/vue-pwa",
 				"date": "6 Sep 2019",
