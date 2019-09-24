@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js or React or AngularJS ... which is KING?",
+				"link": "https://www.youtube.com/watch?v=KHbsIanqH_Y",
+				"date": "23 Sep 2019",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "Natalia Tepluhina | ComponentsConf 2019 | Vue 3 | Looking into the Vueture: Composition Functions",
 				"link": "https://www.youtube.com/watch?v=dy_ZB1TyFx4",
 				"date": "13 Sep 2019",
