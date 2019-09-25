@@ -258,14 +258,6 @@ export default {
 				]
 			},
 			{
-				"title": "Reasons why Vue.js is Best for your UI Web Development.",
-				"link": "https://www.klipstack.com/2019/06/reasons-why-vuejs-is-best-for-your-ui.html",
-				"date": "14 Jun 2019",
-				"tags": [
-					"text"
-				]
-			},
-			{
 				"title": "Why use Vue.js for UI web development?",
 				"link": "https://jaxenter.com/vue-js-for-ui-web-development-159281.html",
 				"date": "12 Jun 2019",
