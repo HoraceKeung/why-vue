@@ -9,6 +9,7 @@ export default {
 			{ property: 'og:image', name: 'twitter:image', itemprop: 'image primaryImageOfPage', content: 'https://horacekeung.github.io/why-vue/icon.png' },
 			{ property: 'og:image:width', content: '300' },
 			{ property: 'og:image:height', content: '300' },
+			{ hid: 'description', name: 'description', content: 'A collection of resources that more or less support the idea of using Vue.js.' }
 		],
 		script: process.env.DEPLOY_ENV === 'GH_PAGES' ? [{src: '/why-vue/gh-spa.js'}] : []
 	},

@@ -84,11 +84,37 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Can VueJS Be Used For Enterprise Apps",
+				"link": "https://www.youtube.com/watch?v=oaNjAYUcoog",
+				"date": "25 Sep 2019",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "Vue.js or React or AngularJS ... which is KING?",
 				"link": "https://www.youtube.com/watch?v=KHbsIanqH_Y",
 				"date": "23 Sep 2019",
 				"tags": [
 					"video"
+				]
+			},
+			{
+				"title": "Starting a Vue.js Project",
+				"link": "https://blog.usejournal.com/starting-a-vue-js-project-8e1bec40b7a5",
+				"date": "21 Sep 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
+				"title": "VoV 079: Why Vue.js is the Best Framework Ever with Gwendolyn Faraday",
+				"link": "https://devchat.tv/views-on-vue/vov-079-why-vue-js-is-the-best-framework-ever-with-gwendolyn-faraday/",
+				"date": "17 Sep 2019",
+				"tags": [
+					"audio"
 				]
 			},
 			{
@@ -103,6 +129,16 @@ export default {
 				"title": "Why Vuejs is so Awesome?",
 				"link": "https://medium.com/@ajgihan/why-vuejs-is-so-awesome-926e6afed41",
 				"date": "12 Sep 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
+				"title": "The Good and the Bad of Vue.js Framework Programming",
+				"link": "https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/",
+				"date": "11 Sep 2019",
 				"tags": [
 					"text",
 					"react",
@@ -136,6 +172,14 @@ export default {
 				"tags": [
 					"video",
 					"nuxt"
+				]
+			},
+			{
+				"title": "Reasons For Considering Vue.Js For UI Development Why Is Vue.Js Constantly Growing?",
+				"link": "https://www.cyblance.com/vue-js/reasons-considering-vue-js-ui-development-vue-js-constantly-growing/",
+				"date": "4 Sep 2019",
+				"tags": [
+					"text"
 				]
 			},
 			{
