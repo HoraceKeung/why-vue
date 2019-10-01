@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why Is Nuxt.js the Best Choice for Your Next Web Application?",
+				"link": "https://morioh.com/p/96239491174b",
+				"date": "1 Oct 2019",
+				"tags": [
+					"text",
+					"nuxt"
+				]
+			},
+			{
 				"title": "Can VueJS Be Used For Enterprise Apps",
 				"link": "https://www.youtube.com/watch?v=oaNjAYUcoog",
 				"date": "25 Sep 2019",
