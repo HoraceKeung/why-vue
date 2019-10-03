@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "7 reasons to choose Vue.js over Angular",
+				"link": "https://tothepoint.group/news/7-reasons-to-choose-vue-js-over-angular/",
+				"date": "3 Oct 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why Is Nuxt.js the Best Choice for Your Next Web Application?",
 				"link": "https://morioh.com/p/96239491174b",
 				"date": "1 Oct 2019",
