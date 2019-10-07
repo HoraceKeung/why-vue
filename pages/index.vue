@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "VueJS – a perfectly blended frontend tool!",
+				"link": "https://www.linkedin.com/pulse/vuejs-perfectly-blended-frontend-tool-priyanka-a-roy/",
+				"date": "7 Oct 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "7 reasons to choose Vue.js over Angular",
 				"link": "https://tothepoint.group/news/7-reasons-to-choose-vue-js-over-angular/",
 				"date": "3 Oct 2019",
