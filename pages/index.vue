@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Faster Web Applications with Vue 3",
+				"link": "https://vueschool.io/articles/vuejs-tutorials/faster-web-applications-with-vue-3/",
+				"date": "14 Oct 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "VueJS – a perfectly blended frontend tool!",
 				"link": "https://www.linkedin.com/pulse/vuejs-perfectly-blended-frontend-tool-priyanka-a-roy/",
 				"date": "7 Oct 2019",
