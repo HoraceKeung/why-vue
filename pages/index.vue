@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Google, Apple and Other Users of Vue.js",
+				"link": "https://medium.com/notonlycss/google-apple-and-other-users-of-vue-js-e4505359e5d5",
+				"date": "15 Oct 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Faster Web Applications with Vue 3",
 				"link": "https://vueschool.io/articles/vuejs-tutorials/faster-web-applications-with-vue-3/",
 				"date": "14 Oct 2019",
