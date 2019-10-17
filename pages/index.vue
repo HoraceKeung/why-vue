@@ -92,6 +92,14 @@ export default {
 				]
 			},
 			{
+				"title": "Top 10 Advantages of using Vue JS Development",
+				"link": "https://medium.com/@firozk.snp/top-10-advantages-of-using-vue-js-development-b62ec2cc7cee",
+				"date": "14 Oct 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Faster Web Applications with Vue 3",
 				"link": "https://vueschool.io/articles/vuejs-tutorials/faster-web-applications-with-vue-3/",
 				"date": "14 Oct 2019",
