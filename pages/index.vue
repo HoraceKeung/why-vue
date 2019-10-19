@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Static generated sites === great performance. What are you waiting for?",
+				"link": "https://www.youtube.com/watch?v=H793eyVM_04",
+				"date": "16 Oct 2019",
+				"tags": [
+					"video",
+					"nuxt"
+				]
+			},
+			{
 				"title": "Google, Apple and Other Users of Vue.js",
 				"link": "https://medium.com/notonlycss/google-apple-and-other-users-of-vue-js-e4505359e5d5",
 				"date": "15 Oct 2019",
