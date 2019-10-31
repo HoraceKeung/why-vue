@@ -10,6 +10,11 @@ export default {
 		meta: {
 			description: 'A collection of resources that more or less support the idea of using Vue.js.',
 			twitterCard: 'summary_large_image',
+			ogImage: {
+				path: 'https://horacekeung.github.io/why-vue/icon.png',
+				width: 512,
+				height: 512
+			},
 			ogHost: 'https://horacekeung.github.io/why-vue/'
 		},
 		manifest: {
