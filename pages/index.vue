@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Considering Vue?",
+				"link": "https://medium.com/@oliver_49261/considering-vue-35391cb270e4",
+				"date": "2 Nov 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Static generated sites === great performance. What are you waiting for?",
 				"link": "https://www.youtube.com/watch?v=H793eyVM_04",
 				"date": "16 Oct 2019",
