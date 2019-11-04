@@ -388,6 +388,14 @@ export default {
 				]
 			},
 			{
+				"title": "Mastering VueJs: Why Vue?",
+				"link": "https://medium.com/@markfasel/mastering-vuejs-why-vue-b26e1af3a58",
+				"date": "11 Apr 2019",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Is Vue.js Enterprise-Ready?—Large Scale Apps Use Cases",
 				"link": "https://www.monterail.com/blog/is-vuejs-enterprise-ready",
 				"date": "8 Apr 2019",
