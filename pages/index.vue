@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Is Vue worth a long term commitment for your business?",
+				"link": "https://www.youtube.com/watch?v=ewJqz4vG_oM",
+				"date": "8 Nov 2019",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "Considering Vue?",
 				"link": "https://medium.com/@oliver_49261/considering-vue-35391cb270e4",
 				"date": "2 Nov 2019",
