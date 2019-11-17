@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": `"The Vue.js community is one of Vue's biggest selling points" – Marina Mosti on Vue and JavaScript in 2019 [Interview]`,
+				"link": "https://hub.packtpub.com/the-vue-js-community-is-one-of-vues-biggest-selling-points-marina-mosti-on-vue-and-javascript-in-2019-interview/",
+				"date": "8 Nov 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Is Vue worth a long term commitment for your business?",
 				"link": "https://www.youtube.com/watch?v=ewJqz4vG_oM",
 				"date": "8 Nov 2019",
