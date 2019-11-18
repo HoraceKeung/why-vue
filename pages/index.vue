@@ -102,6 +102,15 @@ export default {
 				]
 			},
 			{
+				"title": "React vs Vue: my personal point of view",
+				"link": "https://dev.to/sanfra1407/react-vs-vue-my-personal-point-of-view-3pdp",
+				"date": "7 Nov 2019",
+				"tags": [
+					"text",
+					"react"
+				]
+			},
+			{
 				"title": "Considering Vue?",
 				"link": "https://medium.com/@oliver_49261/considering-vue-35391cb270e4",
 				"date": "2 Nov 2019",
