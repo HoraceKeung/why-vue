@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js - The Progressive JavaScript Framework - Jan Gajdowicz",
+				"link": "https://www.youtube.com/watch?v=9WFFVJWx0-E",
+				"date": "18 Nov 2019",
+				"tags": [
+					"video",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": `"The Vue.js community is one of Vue's biggest selling points" – Marina Mosti on Vue and JavaScript in 2019 [Interview]`,
 				"link": "https://hub.packtpub.com/the-vue-js-community-is-one-of-vues-biggest-selling-points-marina-mosti-on-vue-and-javascript-in-2019-interview/",
 				"date": "8 Nov 2019",
