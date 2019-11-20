@@ -131,6 +131,14 @@ export default {
 				]
 			},
 			{
+				"title": "DrupalCon Amsterdam 2019: Progressive decoupling in action",
+				"link": "https://www.youtube.com/watch?v=TBLlwvM_uPc",
+				"date": "30 Oct 2019",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "Static generated sites === great performance. What are you waiting for?",
 				"link": "https://www.youtube.com/watch?v=H793eyVM_04",
 				"date": "16 Oct 2019",
