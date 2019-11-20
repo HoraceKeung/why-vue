@@ -135,7 +135,9 @@ export default {
 				"link": "https://www.youtube.com/watch?v=TBLlwvM_uPc",
 				"date": "30 Oct 2019",
 				"tags": [
-					"video"
+					"video",
+					"react",
+					"jquery"
 				]
 			},
 			{
