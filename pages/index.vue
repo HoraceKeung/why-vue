@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why Nuxt.js is the perfect framework for building static websites",
+				"link": "https://www.vuemastery.com/blog/why-nuxtjs-is-the-perfect-framework-for-building-static-websites/",
+				"date": "21 Nov 2019",
+				"tags": [
+					"text",
+					"nuxt"
+				]
+			},
+			{
 				"title": "Vue.js - The Progressive JavaScript Framework - Jan Gajdowicz",
 				"link": "https://www.youtube.com/watch?v=9WFFVJWx0-E",
 				"date": "18 Nov 2019",
