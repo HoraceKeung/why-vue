@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "WHY I CHOSE VUE OVER REACT AND WHY I'M NOT GOING BACK",
+				"link": "https://www.youtube.com/watch?v=apR_jIM0rb4",
+				"date": "25 Nov 2019",
+				"tags": [
+					"video",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why Nuxt.js is the perfect framework for building static websites",
 				"link": "https://www.vuemastery.com/blog/why-nuxtjs-is-the-perfect-framework-for-building-static-websites/",
 				"date": "21 Nov 2019",
