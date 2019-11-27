@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Full Stack Radio Episode 129: Evan You - What's Coming in Vue.js 3.0",
+				"link": "http://www.fullstackradio.com/129",
+				"date": "27 Nov 2019",
+				"tags": [
+					"audio",
+					"react",
+					"svelte"
+				]
+			},
+			{
 				"title": "WHY I CHOSE VUE OVER REACT AND WHY I'M NOT GOING BACK",
 				"link": "https://www.youtube.com/watch?v=apR_jIM0rb4",
 				"date": "25 Nov 2019",
