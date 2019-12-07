@@ -160,6 +160,16 @@ export default {
 				]
 			},
 			{
+				"title": "Why Vue.js?",
+				"link": "https://www.mncinterviewquestions.com/post/why-vue-js",
+				"date": "31 Oct 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "DrupalCon Amsterdam 2019: Progressive decoupling in action",
 				"link": "https://www.youtube.com/watch?v=TBLlwvM_uPc",
 				"date": "30 Oct 2019",
