@@ -84,6 +84,17 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "5 reasons to consider vue.js if you’re a large organization",
+				"link": "https://zemoga.com/blog/post/5-reasons-to-consider-vue-js-if-youre-a-large-organization",
+				"date": "10 Dec 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular",
+					"jquery"
+				]
+			},
+			{
 				"title": "Full Stack Radio Episode 129: Evan You - What's Coming in Vue.js 3.0",
 				"link": "http://www.fullstackradio.com/129",
 				"date": "27 Nov 2019",
