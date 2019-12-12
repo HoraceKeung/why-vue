@@ -124,6 +124,16 @@ export default {
 				]
 			},
 			{
+				"title": "Top 5 reasons to use Vue js for your next web application project",
+				"link": "https://mobiosolutions.com/top-5-reasons-to-use-vue-js-for-your-next-web-application-project/",
+				"date": "18 Nov 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Vue.js - The Progressive JavaScript Framework - Jan Gajdowicz",
 				"link": "https://www.youtube.com/watch?v=9WFFVJWx0-E",
 				"date": "18 Nov 2019",
