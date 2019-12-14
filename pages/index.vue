@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Design Principles of Vue 3.0 by Evan You",
+				"link": "https://www.youtube.com/watch?v=WLpLYhnGqPA",
+				"date": "13 Dec 2019",
+				"tags": [
+					"video",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "5 reasons to consider vue.js if you’re a large organization",
 				"link": "https://zemoga.com/blog/post/5-reasons-to-consider-vue-js-if-youre-a-large-organization",
 				"date": "10 Dec 2019",
