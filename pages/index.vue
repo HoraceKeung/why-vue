@@ -89,6 +89,7 @@ export default {
 				"date": "13 Dec 2019",
 				"tags": [
 					"video",
+					"svelte",
 					"react",
 					"angular"
 				]
