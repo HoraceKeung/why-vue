@@ -94,6 +94,16 @@ export default {
 				]
 			},
 			{
+				"title": "Everybody Should Be Looking Into VueJS",
+				"link": "https://www.youtube.com/watch?v=KVUKab8aREQ",
+				"date": "21 Dec 2019",
+				"tags": [
+					"video",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Design Principles of Vue 3.0 by Evan You",
 				"link": "https://www.youtube.com/watch?v=WLpLYhnGqPA",
 				"date": "13 Dec 2019",
