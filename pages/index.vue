@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why Vue Js is trending now?",
+				"link": "https://www.ateamindia.com/why-vue-js-is-trending-now/",
+				"date": "28 Dec 2019",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Design Principles of Vue 3.0 by Evan You",
 				"link": "https://www.youtube.com/watch?v=WLpLYhnGqPA",
 				"date": "13 Dec 2019",
