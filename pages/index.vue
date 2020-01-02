@@ -94,6 +94,15 @@ export default {
 				]
 			},
 			{
+				"title": "What You Need to Know About Vue3 in 2020",
+				"link": "https://medium.com/swlh/what-you-need-to-know-about-vue3-in-2020-b36a2feb5dad",
+				"date": "26 Dec 2019",
+				"tags": [
+					"text",
+					"react"
+				]
+			},
+			{
 				"title": "Everybody Should Be Looking Into VueJS",
 				"link": "https://www.youtube.com/watch?v=KVUKab8aREQ",
 				"date": "21 Dec 2019",
