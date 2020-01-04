@@ -84,6 +84,17 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why I Choose Vue Going Into 2020",
+				"link": "https://medium.com/swlh/why-i-choose-vue-going-into-2020-3d96811acb8c",
+				"date": "3 Jan 2020",
+				"tags": [
+					"text",
+					"react",
+					"angular",
+					"ember"
+				]
+			},
+			{
 				"title": "Why Vue Js is trending now?",
 				"link": "https://www.ateamindia.com/why-vue-js-is-trending-now/",
 				"date": "28 Dec 2019",
