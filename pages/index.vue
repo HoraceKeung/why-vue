@@ -124,6 +124,15 @@ export default {
 				]
 			},
 			{
+				"title": "How Vue3 is Designed for Both Hobby Devs and Large Projects",
+				"link": "https://learnvue.co/2019/12/how-vue3-is-designed-for-both-hobby-devs-and-large-projects/",
+				"date": "19 Dec 2019",
+				"tags": [
+					"text",
+					"react"
+				]
+			},
+			{
 				"title": "Design Principles of Vue 3.0 by Evan You",
 				"link": "https://www.youtube.com/watch?v=WLpLYhnGqPA",
 				"date": "13 Dec 2019",
