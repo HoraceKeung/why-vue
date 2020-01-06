@@ -261,6 +261,14 @@ export default {
 				]
 			},
 			{
+				"title": "S06E12 Modern Web Podcast - Vue 3, Code Education, & the Vue Community",
+				"link": "https://modernweb.podbean.com/e/s06e12-modern-web-podcast-vue-3-code-education-the-vue-community/",
+				"date": "29 Oct 2019",
+				"tags": [
+					"audio"
+				]
+			},
+			{
 				"title": "Static generated sites === great performance. What are you waiting for?",
 				"link": "https://www.youtube.com/watch?v=H793eyVM_04",
 				"date": "16 Oct 2019",
