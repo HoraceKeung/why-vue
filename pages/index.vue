@@ -95,6 +95,16 @@ export default {
 				]
 			},
 			{
+				"title": "Adopting Vue.js for Angular Geeks",
+				"link": "https://dzone.com/articles/automating-sql-injections-using-owasp-zed-attack-p",
+				"date": "2 Jan 2020",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why Vue Js is trending now?",
 				"link": "https://www.ateamindia.com/why-vue-js-is-trending-now/",
 				"date": "28 Dec 2019",
