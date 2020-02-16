@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why I prefer Vue over React",
+				"link": "https://dev.to/gautemeekolsen/why-i-prefer-vue-over-react-3jm6",
+				"date": "13 Feb 2020",
+				"tags": [
+					"text",
+					"react"
+				]
+			},
+			{
 				"title": "Why I Choose Vue Going Into 2020",
 				"link": "https://medium.com/swlh/why-i-choose-vue-going-into-2020-3d96811acb8c",
 				"date": "3 Jan 2020",
