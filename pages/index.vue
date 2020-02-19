@@ -84,6 +84,19 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday",
+				"link": "https://www.youtube.com/watch?v=eiUgVa2Td_k",
+				"date": "18 Feb 2020",
+				"tags": [
+					"video",
+					"nuxt",
+					"react",
+					"angular",
+					"ember",
+					"NativeScript"
+				]
+			},
+			{
 				"title": "Why I prefer Vue over React",
 				"link": "https://dev.to/gautemeekolsen/why-i-prefer-vue-over-react-3jm6",
 				"date": "13 Feb 2020",
