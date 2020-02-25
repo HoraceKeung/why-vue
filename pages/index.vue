@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue.js: The Documentary",
+				"link": "https://www.youtube.com/watch?v=OrxmtDw4pVI",
+				"date": "24 Feb 2020",
+				"tags": [
+					"video",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday",
 				"link": "https://www.youtube.com/watch?v=eiUgVa2Td_k",
 				"date": "18 Feb 2020",
