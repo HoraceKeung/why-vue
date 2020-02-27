@@ -94,6 +94,15 @@ export default {
 				]
 			},
 			{
+				"title": "Migrating React Components to Vue.js",
+				"link": "https://www.nexmo.com/blog/2020/02/20/migrating-react-components-to-vue-js-dr",
+				"date": "20 Feb 2020",
+				"tags": [
+					"text",
+					"react"
+				]
+			},
+			{
 				"title": "The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday",
 				"link": "https://www.youtube.com/watch?v=eiUgVa2Td_k",
 				"date": "18 Feb 2020",
