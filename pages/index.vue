@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why it's time to use Vue.js?",
+				"link": "https://dev.to/aumayeung/why-it-s-time-to-use-vue-js-6eb",
+				"date": "25 Feb 2020",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Vue.js: The Documentary",
 				"link": "https://www.youtube.com/watch?v=OrxmtDw4pVI",
 				"date": "24 Feb 2020",
