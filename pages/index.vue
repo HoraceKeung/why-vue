@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Gantt charts for Vue",
+				"link": "https://medium.com/gantt-chart-libraries/gantt-charts-for-vue-8fe649b60efa",
+				"date": "10 Mar 2020",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why it's time to use Vue.js?",
 				"link": "https://dev.to/aumayeung/why-it-s-time-to-use-vue-js-6eb",
 				"date": "25 Feb 2020",
