@@ -94,6 +94,16 @@ export default {
 				]
 			},
 			{
+				"title": "Vue 3: Smaller, Faster & Stronger. A look at the new features coming in the next version of Vue.js",
+				"link": "https://www.youtube.com/watch?v=HmdKqXP8JR8",
+				"date": "4 Mar 2020",
+				"tags": [
+					"video",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why it's time to use Vue.js?",
 				"link": "https://dev.to/aumayeung/why-it-s-time-to-use-vue-js-6eb",
 				"date": "25 Feb 2020",
