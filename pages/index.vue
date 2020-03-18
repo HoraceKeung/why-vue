@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Alex Kyriakidis - What you'll love in Vue 3 - Vue.js Amsterdam 2020",
+				"link": "https://www.youtube.com/watch?v=eQpVcZa8dVQ",
+				"date": "16 Mar 2020",
+				"tags": [
+					"video"
+				]
+			},
+			{
 				"title": "Gantt charts for Vue",
 				"link": "https://medium.com/gantt-chart-libraries/gantt-charts-for-vue-8fe649b60efa",
 				"date": "10 Mar 2020",
