@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why Is Vue.js a Front-end Trend of 2020?",
+				"link": "https://medium.com/@inverita/why-is-vue-js-a-front-end-trend-of-2020-4081e8c799aa",
+				"date": "26 Mar 2020",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Alex Kyriakidis - What you'll love in Vue 3 - Vue.js Amsterdam 2020",
 				"link": "https://www.youtube.com/watch?v=eQpVcZa8dVQ",
 				"date": "16 Mar 2020",
