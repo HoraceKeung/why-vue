@@ -84,6 +84,17 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why I Think You Should Learn Vue.js Today!",
+				"link": "https://share.transistor.fm/s/3168bf09",
+				"date": "13 Apr 2020",
+				"tags": [
+					"audio",
+					"nuxt",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why Is Vue.js a Front-end Trend of 2020?",
 				"link": "https://medium.com/@inverita/why-is-vue-js-a-front-end-trend-of-2020-4081e8c799aa",
 				"date": "26 Mar 2020",
