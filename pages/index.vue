@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why Vue.js is Growing More Day by Day?",
+				"link": "https://medium.com/devtechtoday/why-vue-js-is-growing-more-day-by-day-df9071ecfb7a",
+				"date": "28 Apr 2020",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why I Think You Should Learn Vue.js Today!",
 				"link": "https://share.transistor.fm/s/3168bf09",
 				"date": "13 Apr 2020",
