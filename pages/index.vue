@@ -84,6 +84,14 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why Vue is the best framework for 2020",
+				"link": "https://www.vuemastery.com/blog/why-vue-is-the-best-framework-for-2020/",
+				"date": "8 May 2020",
+				"tags": [
+					"text"
+				]
+			},
+			{
 				"title": "Why Vue.js is Growing More Day by Day?",
 				"link": "https://medium.com/devtechtoday/why-vue-js-is-growing-more-day-by-day-df9071ecfb7a",
 				"date": "28 Apr 2020",
