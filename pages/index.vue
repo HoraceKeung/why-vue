@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Vue > React //#=> true",
+				"link": "https://medium.com/@jonathan.higger/vue-react-true-1b9ee5fe258d",
+				"date": "20 May 2020",
+				"tags": [
+					"text",
+					"react"
+				]
+			},
+			{
 				"title": "Why Vue is the best framework for 2020",
 				"link": "https://www.vuemastery.com/blog/why-vue-is-the-best-framework-for-2020/",
 				"date": "8 May 2020",
