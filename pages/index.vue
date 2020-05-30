@@ -84,6 +84,15 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why and How I Used Vue.js for My Python/Django Web App (and why not React)",
+				"link": "https://www.youtube.com/watch?v=bI5jpueiCWw",
+				"date": "29 May 2020",
+				"tags": [
+					"video",
+					"react"
+				]
+			},
+			{
 				"title": "Vue > React //#=> true",
 				"link": "https://medium.com/@jonathan.higger/vue-react-true-1b9ee5fe258d",
 				"date": "20 May 2020",
