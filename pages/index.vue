@@ -84,6 +84,16 @@ export default {
 		searchWord: null,
 		resources: [
 			{
+				"title": "Why I Left Angular Behind for Vue.js",
+				"link": "https://medium.com/better-programming/why-i-left-angular-behind-for-vue-js-f8b7da829c7b",
+				"date": "6 Jul 2020",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why and How I Used Vue.js for My Python/Django Web App (and why not React)",
 				"link": "https://www.youtube.com/watch?v=bI5jpueiCWw",
 				"date": "29 May 2020",
