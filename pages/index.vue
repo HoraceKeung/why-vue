@@ -94,6 +94,16 @@ export default {
 				]
 			},
 			{
+				"title": "Why choose Vue.js over any other Frontend framework for better UI",
+				"link": "https://medium.com/front-end-weekly/why-choose-vue-js-over-any-other-frontend-framework-for-better-ui-16a8de5567d2",
+				"date": "29 Jun 2020",
+				"tags": [
+					"text",
+					"react",
+					"angular"
+				]
+			},
+			{
 				"title": "Why and How I Used Vue.js for My Python/Django Web App (and why not React)",
 				"link": "https://www.youtube.com/watch?v=bI5jpueiCWw",
 				"date": "29 May 2020",
